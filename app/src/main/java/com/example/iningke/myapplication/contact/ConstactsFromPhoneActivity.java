@@ -128,6 +128,7 @@ public class ConstactsFromPhoneActivity extends AppCompatActivity implements Wor
         /*根据点击的字母来 滚动列表*/
         int position = dataSource_wordIndex.get(words);
         listView.setSelection(position);
+//        listView.setSelectionFromTop();
 
         txt_words.setText(words);
         txt_words.setVisibility(View.VISIBLE);
