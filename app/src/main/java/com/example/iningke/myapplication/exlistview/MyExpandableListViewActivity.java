@@ -67,6 +67,7 @@ public class MyExpandableListViewActivity extends AppCompatActivity implements M
                 return true;
             }
         });
+
         //        设置这个点击事件会屏蔽自带的展开和缩回去的效果
         exListView.setOnGroupClickListener(new ExpandableListView.OnGroupClickListener() {
             @Override
@@ -77,6 +78,7 @@ public class MyExpandableListViewActivity extends AppCompatActivity implements M
         });
 
         /*用来实现同一时间 只有一条分组展开*/
+
 //        exListView.setOnGroupCollapseListener(new ExpandableListView.OnGroupCollapseListener() {
 //            //某一条缩回去监听事件
 //            @Override
