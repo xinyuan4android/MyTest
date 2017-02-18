@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/library/ColorPicker/ColorPicker.iml" filepath="$PROJECT_DIR$/library/ColorPicker/ColorPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Common/MyApplication-Common.iml" filepath="$PROJECT_DIR$/Common/MyApplication-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable/Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable.iml" filepath="$PROJECT_DIR$/Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable/Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/WheelPicker/WheelPicker.iml" filepath="$PROJECT_DIR$/library/WheelPicker/WheelPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseproject/baseproject.iml" filepath="$PROJECT_DIR$/baseproject/baseproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/Common/library-Common.iml" filepath="$PROJECT_DIR$/library/Common/library-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smartisan/smartisan.iml" filepath="$PROJECT_DIR$/smartisan/smartisan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/winxin_sdk_sample/winxin_sdk_sample.iml" filepath="$PROJECT_DIR$/winxin_sdk_sample/winxin_sdk_sample.iml" />
+    </modules>
+  </component>
+</project>

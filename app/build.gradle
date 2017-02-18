@@ -1,0 +1,36 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.1'
+
+    defaultConfig {
+        applicationId "com.example.iningke.myapplication"
+        minSdkVersion 19
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile project(':Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable')
+    compile project(':library:WheelPicker')
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.alibaba:fastjson:1.2.14'
+    compile 'com.android.support:recyclerview-v7:23.0.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.0-beta1'
+    compile files('libs/mysdk.jar')
+    compile files('libs/Msc.jar')
+    //科大讯飞
+    compile files('libs/Sunflower.jar')
+}

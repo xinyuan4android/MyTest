@@ -1,0 +1,3826 @@
+[
+    {
+        "outputFile": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 16,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 1,
+                        "startOffset": 4119,
+                        "endLine": 117,
+                        "endColumn": 16,
+                        "endOffset": 4266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endLine": 10,
+                    "endColumn": 16,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 1,
+                        "startOffset": 4316,
+                        "endLine": 123,
+                        "endColumn": 16,
+                        "endOffset": 4428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endLine": 14,
+                    "endColumn": 16,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 1,
+                        "startOffset": 4434,
+                        "endLine": 128,
+                        "endColumn": 16,
+                        "endOffset": 4551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 1,
+                        "startOffset": 3389,
+                        "endLine": 90,
+                        "endColumn": 19,
+                        "endOffset": 3511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 1,
+                        "startOffset": 3134,
+                        "endLine": 83,
+                        "endColumn": 19,
+                        "endOffset": 3286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endLine": 27,
+                    "endColumn": 16,
+                    "endOffset": 822
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 1,
+                        "startOffset": 3662,
+                        "endLine": 99,
+                        "endColumn": 16,
+                        "endOffset": 3774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 827,
+                    "endLine": 31,
+                    "endColumn": 16,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 1,
+                        "startOffset": 3821,
+                        "endLine": 105,
+                        "endColumn": 16,
+                        "endOffset": 3933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endLine": 34,
+                    "endColumn": 16,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 1,
+                        "startOffset": 3983,
+                        "endLine": 110,
+                        "endColumn": 16,
+                        "endOffset": 4067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 39,
+                    "endOffset": 1063
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 39,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1068,
+                    "endColumn": 40,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 40,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1109,
+                    "endColumn": 44,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 44,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endColumn": 38,
+                    "endOffset": 1188
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 38,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1193,
+                    "endColumn": 45,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 45,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1239,
+                    "endColumn": 51,
+                    "endOffset": 1286
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 51,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1291,
+                    "endColumn": 43,
+                    "endOffset": 1330
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 516,
+                        "endColumn": 43,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1335,
+                    "endColumn": 51,
+                    "endOffset": 1382
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 361,
+                        "endColumn": 51,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1387,
+                    "endColumn": 43,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 43,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 47,
+                    "endOffset": 1474
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 47,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1479,
+                    "endColumn": 39,
+                    "endOffset": 1514
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1519,
+                    "endColumn": 44,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 44,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endColumn": 55,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 55,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 47,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 47,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1668,
+                    "endColumn": 53,
+                    "endOffset": 1717
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 53,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1722,
+                    "endColumn": 46,
+                    "endOffset": 1764
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 46,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1769,
+                    "endColumn": 44,
+                    "endOffset": 1809
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1814,
+                    "endColumn": 46,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 46,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 51,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 434,
+                        "endColumn": 51,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 44,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 44,
+                        "endOffset": 231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 46,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 46,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2005,
+                    "endColumn": 44,
+                    "endOffset": 2045
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 44,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2050,
+                    "endColumn": 39,
+                    "endOffset": 2085
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 39,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2090,
+                    "endColumn": 41,
+                    "endOffset": 2127
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 41,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2132,
+                    "endColumn": 43,
+                    "endOffset": 2171
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 43,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2176,
+                    "endColumn": 41,
+                    "endOffset": 2213
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 41,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2218,
+                    "endColumn": 39,
+                    "endOffset": 2253
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 39,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2258,
+                    "endColumn": 39,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 39,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endColumn": 41,
+                    "endOffset": 2335
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endColumn": 41,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2340,
+                    "endColumn": 46,
+                    "endOffset": 2382
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1832,
+                        "endColumn": 46,
+                        "endOffset": 1874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2387,
+                    "endColumn": 44,
+                    "endOffset": 2427
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 44,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2432,
+                    "endColumn": 37,
+                    "endOffset": 2465
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 37,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2470,
+                    "endColumn": 44,
+                    "endOffset": 2510
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 44,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2515,
+                    "endColumn": 39,
+                    "endOffset": 2550
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 39,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2555,
+                    "endColumn": 39,
+                    "endOffset": 2590
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 39,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2595,
+                    "endColumn": 38,
+                    "endOffset": 2629
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 38,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2634,
+                    "endColumn": 40,
+                    "endOffset": 2670
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 1877,
+                        "endColumn": 37,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2675,
+                    "endColumn": 38,
+                    "endOffset": 2709
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endColumn": 38,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2714,
+                    "endColumn": 63,
+                    "endOffset": 2773
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 839,
+                        "endColumn": 63,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2778,
+                    "endColumn": 54,
+                    "endOffset": 2828
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 54,
+                        "endOffset": 833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2833,
+                    "endColumn": 54,
+                    "endOffset": 2883
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 54,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2888,
+                    "endColumn": 53,
+                    "endOffset": 2937
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 672,
+                        "endColumn": 53,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2942,
+                    "endColumn": 50,
+                    "endOffset": 2988
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 1,
+                        "startOffset": 5404,
+                        "endColumn": 47,
+                        "endOffset": 5450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2993,
+                    "endColumn": 65,
+                    "endOffset": 3054
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2206,
+                        "endColumn": 65,
+                        "endOffset": 2267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3059,
+                    "endColumn": 51,
+                    "endOffset": 3106
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1925,
+                        "endColumn": 51,
+                        "endOffset": 1972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3111,
+                    "endColumn": 47,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 2532,
+                        "endColumn": 44,
+                        "endOffset": 2575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3159,
+                    "endColumn": 46,
+                    "endOffset": 3201
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 2578,
+                        "endColumn": 43,
+                        "endOffset": 2620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3206,
+                    "endColumn": 48,
+                    "endOffset": 3250
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 2485,
+                        "endColumn": 45,
+                        "endOffset": 2529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3255,
+                    "endColumn": 48,
+                    "endOffset": 3299
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 1,
+                        "startOffset": 2623,
+                        "endColumn": 45,
+                        "endOffset": 2667
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3304,
+                    "endColumn": 44,
+                    "endOffset": 3344
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1546,
+                        "endColumn": 44,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3349,
+                    "endColumn": 41,
+                    "endOffset": 3386
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 41,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3391,
+                    "endColumn": 71,
+                    "endOffset": 3458
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 71,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3463,
+                    "endColumn": 39,
+                    "endOffset": 3498
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 39,
+                        "endOffset": 1455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3503,
+                    "endColumn": 42,
+                    "endOffset": 3541
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endColumn": 42,
+                        "endOffset": 1630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3546,
+                    "endColumn": 71,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1686,
+                        "endColumn": 71,
+                        "endOffset": 1753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 63,
+                    "endOffset": 3677
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1309,
+                        "endColumn": 63,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3682,
+                    "endColumn": 44,
+                    "endOffset": 3722
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1374,
+                        "endColumn": 44,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3727,
+                    "endColumn": 50,
+                    "endOffset": 3773
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 50,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3778,
+                    "endColumn": 76,
+                    "endOffset": 3850
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 76,
+                        "endOffset": 1303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3855,
+                    "endColumn": 42,
+                    "endOffset": 3893
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endColumn": 42,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3898,
+                    "endColumn": 39,
+                    "endOffset": 3933
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1505,
+                        "endColumn": 39,
+                        "endOffset": 1540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3938,
+                    "endColumn": 44,
+                    "endOffset": 3978
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 44,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3983,
+                    "endColumn": 48,
+                    "endOffset": 4027
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1636,
+                        "endColumn": 48,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4032,
+                    "endColumn": 89,
+                    "endOffset": 4117
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 1,
+                        "startOffset": 5739,
+                        "endColumn": 86,
+                        "endOffset": 5824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4122,
+                    "endColumn": 66,
+                    "endOffset": 4184
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 1,
+                        "startOffset": 5674,
+                        "endColumn": 63,
+                        "endOffset": 5736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4189,
+                    "endColumn": 51,
+                    "endOffset": 4236
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 2328,
+                        "endColumn": 48,
+                        "endOffset": 2375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4241,
+                    "endColumn": 81,
+                    "endOffset": 4318
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 1,
+                        "startOffset": 5977,
+                        "endColumn": 78,
+                        "endOffset": 6054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4323,
+                    "endColumn": 58,
+                    "endOffset": 4377
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 1,
+                        "startOffset": 5920,
+                        "endColumn": 55,
+                        "endOffset": 5974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4382,
+                    "endColumn": 61,
+                    "endOffset": 4439
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 5084,
+                        "endColumn": 61,
+                        "endOffset": 5141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4444,
+                    "endColumn": 68,
+                    "endOffset": 4508
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 1,
+                        "startOffset": 5607,
+                        "endColumn": 65,
+                        "endOffset": 5671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4513,
+                    "endColumn": 57,
+                    "endOffset": 4566
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 1,
+                        "startOffset": 5827,
+                        "endColumn": 54,
+                        "endOffset": 5880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4571,
+                    "endColumn": 44,
+                    "endOffset": 4611
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2116,
+                        "endColumn": 44,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4616,
+                    "endColumn": 44,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2070,
+                        "endColumn": 44,
+                        "endOffset": 2110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 46,
+                    "endOffset": 4703
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2022,
+                        "endColumn": 46,
+                        "endOffset": 2064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4708,
+                    "endColumn": 65,
+                    "endOffset": 4769
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 65,
+                        "endOffset": 1826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4774,
+                    "endColumn": 49,
+                    "endOffset": 4819
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 2765,
+                        "endColumn": 46,
+                        "endOffset": 2810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4824,
+                    "endColumn": 63,
+                    "endOffset": 4883
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 1,
+                        "startOffset": 5501,
+                        "endColumn": 60,
+                        "endOffset": 5560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4888,
+                    "endColumn": 49,
+                    "endOffset": 4933
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 1,
+                        "startOffset": 5453,
+                        "endColumn": 46,
+                        "endOffset": 5498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4938,
+                    "endColumn": 47,
+                    "endOffset": 4981
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 2813,
+                        "endColumn": 44,
+                        "endOffset": 2856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4986,
+                    "endColumn": 45,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 1,
+                        "startOffset": 5563,
+                        "endColumn": 42,
+                        "endOffset": 5604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 48,
+                    "endOffset": 5076
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 2942,
+                        "endColumn": 45,
+                        "endOffset": 2986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5081,
+                    "endColumn": 61,
+                    "endOffset": 5138
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 1,
+                        "startOffset": 2673,
+                        "endColumn": 58,
+                        "endOffset": 2730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5143,
+                    "endColumn": 42,
+                    "endOffset": 5181
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2162,
+                        "endColumn": 42,
+                        "endOffset": 2200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5186,
+                    "endColumn": 47,
+                    "endOffset": 5229
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 1,
+                        "startOffset": 5309,
+                        "endColumn": 44,
+                        "endOffset": 5352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 5234,
+                    "endColumn": 50,
+                    "endOffset": 5280
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 2433,
+                        "endColumn": 47,
+                        "endOffset": 2479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5285,
+                    "endColumn": 50,
+                    "endOffset": 5331
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 1,
+                        "startOffset": 5355,
+                        "endColumn": 47,
+                        "endOffset": 5401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 5336,
+                    "endColumn": 79,
+                    "endOffset": 5411
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 1,
+                        "startOffset": 6158,
+                        "endColumn": 76,
+                        "endOffset": 6233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5416,
+                    "endColumn": 66,
+                    "endOffset": 5478
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 1,
+                        "startOffset": 6093,
+                        "endColumn": 63,
+                        "endOffset": 6155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5483,
+                    "endColumn": 38,
+                    "endOffset": 5517
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 1,
+                        "startOffset": 5883,
+                        "endColumn": 35,
+                        "endOffset": 5917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5522,
+                    "endColumn": 41,
+                    "endOffset": 5559
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 2899,
+                        "endColumn": 38,
+                        "endOffset": 2936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5564,
+                    "endColumn": 42,
+                    "endOffset": 5602
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1978,
+                        "endColumn": 42,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5607,
+                    "endColumn": 67,
+                    "endOffset": 5670
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 5015,
+                        "endColumn": 67,
+                        "endOffset": 5078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5675,
+                    "endColumn": 38,
+                    "endOffset": 5709
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 2862,
+                        "endColumn": 35,
+                        "endOffset": 2896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5714,
+                    "endColumn": 48,
+                    "endOffset": 5758
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 1,
+                        "startOffset": 4072,
+                        "endColumn": 45,
+                        "endOffset": 4116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5763,
+                    "endColumn": 45,
+                    "endOffset": 5804
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 1,
+                        "startOffset": 4272,
+                        "endColumn": 42,
+                        "endOffset": 4313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5809,
+                    "endColumn": 42,
+                    "endOffset": 5847
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 1,
+                        "startOffset": 3348,
+                        "endColumn": 39,
+                        "endOffset": 3386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5852,
+                    "endColumn": 58,
+                    "endOffset": 5906
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3517,
+                        "endColumn": 58,
+                        "endOffset": 3571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5911,
+                    "endColumn": 41,
+                    "endOffset": 5948
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 1,
+                        "startOffset": 3094,
+                        "endColumn": 38,
+                        "endOffset": 3131
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5953,
+                    "endColumn": 57,
+                    "endOffset": 6006
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 1,
+                        "startOffset": 3289,
+                        "endColumn": 54,
+                        "endOffset": 3342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 6011,
+                    "endColumn": 43,
+                    "endOffset": 6050
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 1,
+                        "startOffset": 3620,
+                        "endColumn": 40,
+                        "endOffset": 3659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 6055,
+                    "endColumn": 41,
+                    "endOffset": 6092
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 1,
+                        "startOffset": 3577,
+                        "endColumn": 38,
+                        "endOffset": 3614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 6097,
+                    "endColumn": 42,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 2989,
+                        "endColumn": 39,
+                        "endOffset": 3027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 62,
+                    "endOffset": 6198
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 3030,
+                        "endColumn": 59,
+                        "endOffset": 3088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 6203,
+                    "endColumn": 50,
+                    "endOffset": 6249
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2279,
+                        "endColumn": 50,
+                        "endOffset": 2325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 6254,
+                    "endColumn": 43,
+                    "endOffset": 6293
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 1,
+                        "startOffset": 3779,
+                        "endColumn": 40,
+                        "endOffset": 3818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 6298,
+                    "endColumn": 45,
+                    "endOffset": 6339
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 1,
+                        "startOffset": 3939,
+                        "endColumn": 42,
+                        "endOffset": 3980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6344,
+                    "endColumn": 62,
+                    "endOffset": 6402
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 4945,
+                        "endColumn": 62,
+                        "endOffset": 5003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6407,
+                    "endColumn": 57,
+                    "endOffset": 6460
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 4827,
+                        "endColumn": 57,
+                        "endOffset": 4880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6465,
+                    "endColumn": 55,
+                    "endOffset": 6516
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 4770,
+                        "endColumn": 55,
+                        "endOffset": 4821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6521,
+                    "endColumn": 63,
+                    "endOffset": 6580
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 4647,
+                        "endColumn": 63,
+                        "endOffset": 4706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6585,
+                    "endColumn": 56,
+                    "endOffset": 6637
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 4589,
+                        "endColumn": 56,
+                        "endOffset": 4641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6642,
+                    "endColumn": 56,
+                    "endOffset": 6694
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 4712,
+                        "endColumn": 56,
+                        "endOffset": 4764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6699,
+                    "endColumn": 57,
+                    "endOffset": 6752
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 4886,
+                        "endColumn": 57,
+                        "endOffset": 4939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6757,
+                    "endColumn": 69,
+                    "endOffset": 6822
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 5212,
+                        "endColumn": 69,
+                        "endOffset": 5277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6827,
+                    "endColumn": 56,
+                    "endOffset": 6879
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 2378,
+                        "endColumn": 53,
+                        "endOffset": 2430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6884,
+                    "endColumn": 57,
+                    "endOffset": 6937
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 5147,
+                        "endColumn": 57,
+                        "endOffset": 5200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6942,
+                    "endColumn": 65,
+                    "endOffset": 7003
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 927,
+                        "endColumn": 65,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 7008,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 7396
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 389,
+                        "startColumn": 4,
+                        "startOffset": 16928,
+                        "endLine": 396,
+                        "endColumn": 12,
+                        "endOffset": 17316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 7401,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 7596
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 14706,
+                        "endLine": 345,
+                        "endColumn": 12,
+                        "endOffset": 14901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 7601,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 8117
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 4,
+                        "startOffset": 15573,
+                        "endLine": 370,
+                        "endColumn": 12,
+                        "endOffset": 16089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 8122,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 8949
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 372,
+                        "startColumn": 4,
+                        "startOffset": 16095,
+                        "endLine": 387,
+                        "endColumn": 12,
+                        "endOffset": 16922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 8954,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 9890
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 4,
+                        "startOffset": 13244,
+                        "endLine": 329,
+                        "endColumn": 12,
+                        "endOffset": 14180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 9895,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 10168
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 411,
+                        "startColumn": 4,
+                        "startOffset": 17833,
+                        "endLine": 416,
+                        "endColumn": 12,
+                        "endOffset": 18106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 10173,
+                    "endLine": 223,
+                    "endColumn": 12,
+                    "endOffset": 10687
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 4,
+                        "startOffset": 14186,
+                        "endLine": 340,
+                        "endColumn": 12,
+                        "endOffset": 14700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 10692,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 10915
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 398,
+                        "startColumn": 4,
+                        "startOffset": 17322,
+                        "endLine": 402,
+                        "endColumn": 12,
+                        "endOffset": 17545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 10920,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 11580
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 347,
+                        "startColumn": 4,
+                        "startOffset": 14907,
+                        "endLine": 359,
+                        "endColumn": 12,
+                        "endOffset": 15567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 11585,
+                    "endLine": 247,
+                    "endColumn": 12,
+                    "endOffset": 11861
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 404,
+                        "startColumn": 4,
+                        "startOffset": 17551,
+                        "endLine": 409,
+                        "endColumn": 12,
+                        "endOffset": 17827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 11866,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 12265
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 9054,
+                        "endLine": 225,
+                        "endColumn": 12,
+                        "endOffset": 9453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 12270,
+                    "endLine": 258,
+                    "endColumn": 12,
+                    "endOffset": 12431
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 426,
+                        "startColumn": 4,
+                        "startOffset": 18488,
+                        "endLine": 428,
+                        "endColumn": 12,
+                        "endOffset": 18649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 12436,
+                    "endLine": 265,
+                    "endColumn": 12,
+                    "endOffset": 12802
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 418,
+                        "startColumn": 4,
+                        "startOffset": 18112,
+                        "endLine": 424,
+                        "endColumn": 12,
+                        "endOffset": 18478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 12807,
+                    "endLine": 270,
+                    "endColumn": 12,
+                    "endOffset": 13023
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2471,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 2687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 13028,
+                    "endLine": 281,
+                    "endColumn": 12,
+                    "endOffset": 13561
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 13566,
+                    "endLine": 292,
+                    "endColumn": 12,
+                    "endOffset": 14113
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 6228,
+                        "endLine": 161,
+                        "endColumn": 12,
+                        "endOffset": 6775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 14118,
+                    "endLine": 301,
+                    "endColumn": 12,
+                    "endOffset": 14548
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4573,
+                        "endLine": 121,
+                        "endColumn": 12,
+                        "endOffset": 5003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 14553,
+                    "endLine": 304,
+                    "endColumn": 12,
+                    "endOffset": 14664
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5009,
+                        "endLine": 125,
+                        "endColumn": 12,
+                        "endOffset": 5120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 14669,
+                    "endLine": 309,
+                    "endColumn": 12,
+                    "endOffset": 14876
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 7362,
+                        "endLine": 183,
+                        "endColumn": 12,
+                        "endOffset": 7569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 14881,
+                    "endLine": 319,
+                    "endColumn": 12,
+                    "endOffset": 15405
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3204,
+                        "endLine": 89,
+                        "endColumn": 12,
+                        "endOffset": 3728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 15410,
+                    "endLine": 325,
+                    "endColumn": 12,
+                    "endOffset": 15731
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 290,
+                        "startColumn": 4,
+                        "startOffset": 12304,
+                        "endLine": 295,
+                        "endColumn": 12,
+                        "endOffset": 12625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 15736,
+                    "endLine": 333,
+                    "endColumn": 12,
+                    "endOffset": 16152
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 11019,
+                        "endLine": 270,
+                        "endColumn": 12,
+                        "endOffset": 11435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 334,
+                    "startColumn": 4,
+                    "startOffset": 16157,
+                    "endLine": 336,
+                    "endColumn": 12,
+                    "endOffset": 16305
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 10865,
+                        "endLine": 261,
+                        "endColumn": 12,
+                        "endOffset": 11013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 16310,
+                    "endLine": 348,
+                    "endColumn": 12,
+                    "endOffset": 16933
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 11441,
+                        "endLine": 283,
+                        "endColumn": 12,
+                        "endOffset": 12064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 16938,
+                    "endLine": 352,
+                    "endColumn": 12,
+                    "endOffset": 17166
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 285,
+                        "startColumn": 4,
+                        "startOffset": 12070,
+                        "endLine": 288,
+                        "endColumn": 12,
+                        "endOffset": 12298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 17171,
+                    "endLine": 356,
+                    "endColumn": 12,
+                    "endOffset": 17382
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 4,
+                        "startOffset": 10648,
+                        "endLine": 257,
+                        "endColumn": 12,
+                        "endOffset": 10859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 17387,
+                    "endLine": 365,
+                    "endColumn": 12,
+                    "endOffset": 17858
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 10171,
+                        "endLine": 252,
+                        "endColumn": 12,
+                        "endOffset": 10642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 17863,
+                    "endLine": 380,
+                    "endColumn": 12,
+                    "endOffset": 18544
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 9484,
+                        "endLine": 242,
+                        "endColumn": 12,
+                        "endOffset": 10165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 18549,
+                    "endLine": 386,
+                    "endColumn": 12,
+                    "endOffset": 18812
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1334,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 18817,
+                    "endLine": 392,
+                    "endColumn": 12,
+                    "endOffset": 19092
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 8115,
+                        "endLine": 202,
+                        "endColumn": 12,
+                        "endOffset": 8390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 19097,
+                    "endLine": 395,
+                    "endColumn": 12,
+                    "endOffset": 19213
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 6781,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 6897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 19218,
+                    "endLine": 401,
+                    "endColumn": 12,
+                    "endOffset": 19471
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 2945,
+                        "endLine": 78,
+                        "endColumn": 12,
+                        "endOffset": 3198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 402,
+                    "startColumn": 4,
+                    "startOffset": 19476,
+                    "endLine": 407,
+                    "endColumn": 12,
+                    "endOffset": 19753
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3734,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 4011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 408,
+                    "startColumn": 4,
+                    "startOffset": 19758,
+                    "endLine": 415,
+                    "endColumn": 12,
+                    "endOffset": 20184
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 5796,
+                        "endLine": 149,
+                        "endColumn": 12,
+                        "endOffset": 6222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 20189,
+                    "endLine": 420,
+                    "endColumn": 12,
+                    "endOffset": 20453
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5126,
+                        "endLine": 131,
+                        "endColumn": 12,
+                        "endOffset": 5390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 421,
+                    "startColumn": 4,
+                    "startOffset": 20458,
+                    "endLine": 424,
+                    "endColumn": 12,
+                    "endOffset": 20640
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4385,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 4567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 425,
+                    "startColumn": 4,
+                    "startOffset": 20645,
+                    "endLine": 427,
+                    "endColumn": 12,
+                    "endOffset": 20775
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4017,
+                        "endLine": 100,
+                        "endColumn": 12,
+                        "endOffset": 4147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 20780,
+                    "endLine": 432,
+                    "endColumn": 12,
+                    "endOffset": 20990
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 6903,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 7113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 433,
+                    "startColumn": 4,
+                    "startOffset": 20995,
+                    "endLine": 445,
+                    "endColumn": 12,
+                    "endOffset": 21647
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 8396,
+                        "endLine": 216,
+                        "endColumn": 12,
+                        "endOffset": 9048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 21652,
+                    "endLine": 456,
+                    "endColumn": 12,
+                    "endOffset": 22186
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 4,
+                        "startOffset": 7575,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 8109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 22191,
+                    "endLine": 464,
+                    "endColumn": 12,
+                    "endOffset": 22577
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 1910,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 22582,
+                    "endLine": 469,
+                    "endColumn": 12,
+                    "endOffset": 22819
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 7119,
+                        "endLine": 177,
+                        "endColumn": 12,
+                        "endOffset": 7356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 22824,
+                    "endLine": 474,
+                    "endColumn": 12,
+                    "endOffset": 23050
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 4153,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 4379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 23055,
+                    "endLine": 477,
+                    "endColumn": 12,
+                    "endOffset": 23160
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 23165,
+                    "endLine": 480,
+                    "endColumn": 12,
+                    "endOffset": 23287
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 23292,
+                    "endLine": 483,
+                    "endColumn": 12,
+                    "endOffset": 23431
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 901,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 23436,
+                    "endLine": 486,
+                    "endColumn": 12,
+                    "endOffset": 23553
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 23558,
+                    "endLine": 490,
+                    "endColumn": 12,
+                    "endOffset": 23767
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1517,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 23772,
+                    "endLine": 493,
+                    "endColumn": 12,
+                    "endOffset": 23935
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1737,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 1902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 23940,
+                    "endLine": 497,
+                    "endColumn": 12,
+                    "endOffset": 24162
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 24167,
+                    "endLine": 502,
+                    "endColumn": 12,
+                    "endOffset": 24394
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 530,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 24399,
+                    "endLine": 507,
+                    "endColumn": 12,
+                    "endOffset": 24621
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 24626,
+                    "endLine": 511,
+                    "endColumn": 12,
+                    "endOffset": 24815
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 24820,
+                    "endLine": 517,
+                    "endColumn": 12,
+                    "endOffset": 25104
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 12631,
+                        "endLine": 302,
+                        "endColumn": 12,
+                        "endOffset": 12915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 25109,
+                    "endLine": 523,
+                    "endColumn": 12,
+                    "endOffset": 25395
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 304,
+                        "startColumn": 4,
+                        "startOffset": 12921,
+                        "endLine": 309,
+                        "endColumn": 12,
+                        "endOffset": 13207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 25400,
+                    "endLine": 530,
+                    "endColumn": 12,
+                    "endOffset": 25723
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2142,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 25728,
+                    "endLine": 536,
+                    "endColumn": 12,
+                    "endOffset": 25974
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2693,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 2939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 25979,
+                    "endLine": 552,
+                    "endColumn": 12,
+                    "endOffset": 27240
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2346,
+                        "endLine": 76,
+                        "endColumn": 12,
+                        "endOffset": 3622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 27245,
+                    "endLine": 562,
+                    "endColumn": 12,
+                    "endOffset": 27838
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4577,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 5179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 27843,
+                    "endLine": 569,
+                    "endColumn": 12,
+                    "endOffset": 28220
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4186,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 4569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 28225,
+                    "endLine": 573,
+                    "endColumn": 12,
+                    "endOffset": 28405
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3630,
+                        "endLine": 81,
+                        "endColumn": 12,
+                        "endOffset": 3813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 28410,
+                    "endLine": 579,
+                    "endColumn": 12,
+                    "endOffset": 28762
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3821,
+                        "endLine": 88,
+                        "endColumn": 12,
+                        "endOffset": 4178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 28767,
+                    "endLine": 588,
+                    "endColumn": 12,
+                    "endOffset": 29184
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 589,
+                    "startColumn": 4,
+                    "startOffset": 29189,
+                    "endLine": 596,
+                    "endColumn": 12,
+                    "endOffset": 29560
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 597,
+                    "startColumn": 4,
+                    "startOffset": 29565,
+                    "endLine": 604,
+                    "endColumn": 12,
+                    "endOffset": 29959
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5396,
+                        "endLine": 140,
+                        "endColumn": 12,
+                        "endOffset": 5790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 29964,
+                    "endLine": 612,
+                    "endColumn": 12,
+                    "endOffset": 30378
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 87,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 613,
+                    "startColumn": 4,
+                    "startOffset": 30383,
+                    "endLine": 618,
+                    "endColumn": 12,
+                    "endOffset": 30666
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 430,
+                        "startColumn": 4,
+                        "startOffset": 18659,
+                        "endLine": 435,
+                        "endColumn": 12,
+                        "endOffset": 18942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 619,
+                    "startColumn": 4,
+                    "startOffset": 30671,
+                    "endLine": 626,
+                    "endColumn": 12,
+                    "endOffset": 31097
+                },
+                "from": {
+                    "file": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 5187,
+                        "endLine": 116,
+                        "endColumn": 12,
+                        "endOffset": 5620
+                    }
+                }
+            }
+        ]
+    }
+]
