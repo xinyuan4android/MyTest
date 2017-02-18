@@ -11,7 +11,10 @@ import com.example.iningke.myapplication.R;
 import java.util.List;
 
 /**
- * Created by hxy on  2017/1/9.
+ * 类似QQ分组的 可展开 收缩的控件
+ *
+ * @author hxy
+ * @date 2017/2/18
  */
 public class MyExListViewAdapter extends BaseExpandableListAdapter implements View.OnClickListener {
     private List<String> dataSource_parent;

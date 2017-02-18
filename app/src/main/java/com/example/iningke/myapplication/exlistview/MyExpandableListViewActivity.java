@@ -12,6 +12,12 @@ import com.example.iningke.myapplication.R;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 类似QQ分组的 可展开 收缩的控件
+ *
+ * @author hxy
+ * @date 2017/2/18
+ */
 public class MyExpandableListViewActivity extends AppCompatActivity implements MyExListViewAdapter.MyDeleteOnClickListener {
     private ExpandableListView exListView;
     private List<String> dataSource_parent = new ArrayList<>();
@@ -69,6 +75,8 @@ public class MyExpandableListViewActivity extends AppCompatActivity implements M
                 return true;
             }
         });
+
+        /*用来实现同一时间 只有一条分组展开*/
 //        exListView.setOnGroupCollapseListener(new ExpandableListView.OnGroupCollapseListener() {
 //            //某一条缩回去监听事件
 //            @Override
