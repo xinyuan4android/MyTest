@@ -1,16 +1,15 @@
 package com.example.iningke.myapplication;
 
-import android.app.Application;
-
 import com.iflytek.cloud.SpeechConstant;
 import com.iflytek.cloud.SpeechUtility;
+import com.iningke.baseproject.BaseApp;
 
 import io.rong.imkit.RongIM;
 
 /**
  * Created by iningke on 2016/7/21.
  */
-public class MyApplication extends Application {
+public class MyApplication extends BaseApp {
     private static MyApplication myApplication;
 
     public static MyApplication getMyApplication() {
@@ -30,6 +29,6 @@ public class MyApplication extends Application {
          */
         RongIM.init(this);
         //
-        SpeechUtility.createUtility(this, SpeechConstant.APPID +"=58a50b41");
+        SpeechUtility.createUtility(this, SpeechConstant.APPID + "=58a50b41");
     }
 }

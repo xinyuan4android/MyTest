@@ -5,6 +5,7 @@ import android.content.Context;
 import android.os.Handler;
 import android.os.Looper;
 
+import com.iningke.baseproject.utils.ImagLoaderUtils;
 import com.iningke.baseproject.utils.LogUtils;
 
 import org.xutils.x;
@@ -39,6 +40,7 @@ public class BaseApp extends Application {
     public static BaseApp getInstance() {
         return (BaseApp) mInstance;
     }
+
     @Override
     public void onCreate() {
         super.onCreate();
@@ -50,6 +52,8 @@ public class BaseApp extends Application {
         mMainThreadHandler = new Handler();
         mMainLooper = getMainLooper();
         mInstance = this;
+//        ImageLoader初始化
+        ImagLoaderUtils.initImageLoader(this);
         //xutils初始化  3.0
         x.Ext.init(this);
         x.Ext.setDebug(BuildConfig.DEBUG); // 是否输出debug日志, 开启debug会影响性能.

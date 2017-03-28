@@ -30,7 +30,7 @@ import butterknife.ButterKnife;
  * @author hxy
  * @date 2017/2/14
  */
-public class ConstactsFromPhoneActivity extends AppCompatActivity implements WordsNavigation.onWordsChangeListener {
+public class ContactsFromPhoneActivity extends AppCompatActivity implements WordsNavigation.onWordsChangeListener {
 
     private ListView listView;
     private ContactsAdapter adapter;
@@ -98,7 +98,7 @@ public class ConstactsFromPhoneActivity extends AppCompatActivity implements Wor
                 wordsNavigation.setWords(strings);
                 cursor.close();//使用完后一定要将cursor关闭，不然会造成内存泄露等问题
             } else {
-                Toast.makeText(ConstactsFromPhoneActivity.this, "cursor = null", Toast.LENGTH_SHORT).show();
+                Toast.makeText(ContactsFromPhoneActivity.this, "cursor = null", Toast.LENGTH_SHORT).show();
             }
         } catch (Exception e) {
             e.printStackTrace();

@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:2:1-73:12
-	xmlns:android
-		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:2:11-69
 	package
 		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml
@@ -15,6 +13,8 @@ ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:
 		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml
 		INJECTED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:7:5-43
 	android:targetSdkVersion
@@ -46,12 +46,12 @@ activity#net.sourceforge.simcpux.wxapi.WXEntryActivity
 ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:17:9-32:20
 	android:label
 		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:19:13-45
+	android:launchMode
+		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:21:13-43
 	android:exported
 		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:20:13-36
 	android:name
 		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:18:13-50
-	android:launchMode
-		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:21:13-43
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
@@ -78,12 +78,12 @@ ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:
 		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:30:23-58
 activity#net.sourceforge.simcpux.wxapi.WXPayEntryActivity
 ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:34:9-37:45
+	android:launchMode
+		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:37:13-43
 	android:exported
 		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:36:13-36
 	android:name
 		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:35:13-53
-	android:launchMode
-		ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:37:13-43
 activity#net.sourceforge.simcpux.SendToWXActivity
 ADDED from F:\work\MyApplication\winxin_sdk_sample\src\main\AndroidManifest.xml:39:9-42:51
 	android:label

@@ -32,18 +32,25 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity android:name=".MainActivity" />
         <activity android:name=".ButterKnifeActivity" />
-        <activity android:name=".RecyclerViewActivity" />
+        <activity android:name=".RecyclerViewActivity"></activity>
         <activity android:name=".TestActivity" />
         <activity android:name=".MPAndroidChartActivity" />
-        <activity android:name=".TextPermissionActivity" />
-        <activity android:name=".TextPermission2Activity" />
+        <activity android:name=".permission.TextPermissionActivity" />
+        <activity android:name=".permission.TextPermission2Activity" />
         <activity android:name=".mvp.activity.LoginActivity" />
-        <activity android:name=".exlistview.MyExpandableListViewActivity"></activity>
-        <activity android:name=".MarqueeActivity" />
-        <activity android:name=".TextToSpeechActivity"></activity>
-        <activity android:name=".contact.ConstactsFromPhoneActivity"></activity>
-        <activity android:name=".contact.GoToSystemContactActivity"></activity>
+        <activity android:name=".exlistview.MyExpandableListViewActivity" />
+        <activity android:name=".MarqueeActivity">
+
+        </activity>
+        <activity android:name=".TextToSpeechActivity" />
+        <activity android:name=".contact.ContactsFromPhoneActivity" />
+        <activity android:name=".contact.GoToSystemContactActivity" />
         <activity android:name=".iflytek.IFlyTekSpeechActivity">
+
+        </activity>
+        <activity android:name=".gif.GifActivity" />
+        <activity android:name=".RListViewActivity" />
+        <activity android:name=".HxyActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

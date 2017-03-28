@@ -1,4 +1,4 @@
-package com.example.iningke.myapplication;
+package com.example.iningke.myapplication.permission;
 
 import android.Manifest;
 import android.content.Intent;
@@ -6,8 +6,9 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageView;
 import android.widget.Toast;
+
+import com.example.iningke.myapplication.R;
 
 public class TextPermission2Activity extends CheckPermissionActivity {
     private Button call;

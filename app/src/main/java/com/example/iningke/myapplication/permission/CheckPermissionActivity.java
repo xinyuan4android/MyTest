@@ -1,4 +1,4 @@
-package com.example.iningke.myapplication;
+package com.example.iningke.myapplication.permission;
 
 import android.content.pm.PackageManager;
 import android.support.v4.app.ActivityCompat;

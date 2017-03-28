@@ -1,7 +1,7 @@
 [
     {
-        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_list_textcolor_one.xml",
-        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_list_textcolor_one.xml"
+        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_actbtn_text.xml",
+        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_actbtn_text.xml"
     },
     {
         "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_style_one_btn_text.xml",
@@ -12,8 +12,12 @@
         "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_title_btn_text.xml"
     },
     {
-        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_actbtn_text.xml",
-        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_actbtn_text.xml"
+        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_list_textcolor_one.xml",
+        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_list_textcolor_one.xml"
+    },
+    {
+        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_hyper_text.xml",
+        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_hyper_text.xml"
     },
     {
         "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_pref_title.xml",
@@ -24,6 +28,10 @@
         "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_btn_text.xml"
     },
     {
+        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_pref_summary.xml",
+        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_pref_summary.xml"
+    },
+    {
         "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_style_two_btn_text.xml",
         "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_style_two_btn_text.xml"
     },
@@ -32,19 +40,11 @@
         "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_choice_text_color.xml"
     },
     {
-        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_list_textcolor_time.xml",
-        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_list_textcolor_time.xml"
-    },
-    {
-        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_pref_summary.xml",
-        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_pref_summary.xml"
-    },
-    {
-        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_hyper_text.xml",
-        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_hyper_text.xml"
-    },
-    {
         "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_list_textcolor_two.xml",
         "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_list_textcolor_two.xml"
+    },
+    {
+        "merged": "F:\\work\\MyApplication\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\color\\mm_list_textcolor_time.xml",
+        "source": "F:\\work\\MyApplication\\winxin_sdk_sample\\src\\main\\res\\color\\mm_list_textcolor_time.xml"
     }
 ]
