@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\work\\MyApplication\\dateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\work\\MyApplication\\dateTimePicker\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\work\\MyApplication\\dateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\common_datetime.xml",
+        "source": "F:\\work\\MyApplication\\dateTimePicker\\src\\main\\res\\layout\\common_datetime.xml"
+    }
+]

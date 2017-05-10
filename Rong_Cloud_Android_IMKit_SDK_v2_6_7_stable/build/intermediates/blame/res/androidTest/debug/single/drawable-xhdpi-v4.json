@@ -312,12 +312,12 @@
         "source": "F:\\work\\MyApplication\\Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_indicator_hover.png"
     },
     {
-        "merged": "F:\\work\\MyApplication\\Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f434.png",
-        "source": "F:\\work\\MyApplication\\Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f434.png"
-    },
-    {
         "merged": "F:\\work\\MyApplication\\Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u2615.png",
         "source": "F:\\work\\MyApplication\\Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u2615.png"
+    },
+    {
+        "merged": "F:\\work\\MyApplication\\Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f434.png",
+        "source": "F:\\work\\MyApplication\\Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f434.png"
     },
     {
         "merged": "F:\\work\\MyApplication\\Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f3e1.png",

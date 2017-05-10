@@ -2,6 +2,7 @@ package com.example.iningke.myapplication.contact;
 
 import android.database.Cursor;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.provider.ContactsContract;
@@ -61,10 +62,14 @@ public class ContactsFromPhoneActivity extends AppCompatActivity implements Word
         adapter = new ContactsAdapter(dataSource);
         listView.setAdapter(adapter);
         try {
+            String sortKey = "sort_key";
+            if (Build.VERSION.SDK_INT > Build.VERSION_CODES.KITKAT) {
+                sortKey = "phonebook_label";
+            }
             Uri contactUri = ContactsContract.CommonDataKinds.Phone.CONTENT_URI;
             Cursor cursor = getContentResolver().query(contactUri,
-                    new String[]{"display_name", "sort_key", "contact_id", "data1"},
-                    null, null, "sort_key");
+                    new String[]{"display_name", sortKey, "contact_id", "data1"},
+                    null, null, sortKey);
             String contactName;
             String contactNumber;
             String contactSortKey;
@@ -78,7 +83,7 @@ public class ContactsFromPhoneActivity extends AppCompatActivity implements Word
                     /*通讯录联系人的ID*/
                     contactId = cursor.getInt(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.CONTACT_ID));
                     /*通讯录 根据 拼音加汉字的名字 获取首字母*/
-                    contactSortKey = getSortkey(cursor.getString(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.SORT_KEY_PRIMARY)));
+                    contactSortKey = getSortkey(cursor.getString(cursor.getColumnIndex(sortKey)));
                     /*通讯录 联系人的名字 按照 拼音加汉子的方式拼接起来的名字*/
                     //sort_key = cursor.getString(cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.SORT_KEY_PRIMARY));
                     ContactsInfo contactsInfo = new ContactsInfo(contactName, contactNumber, contactSortKey, contactId);

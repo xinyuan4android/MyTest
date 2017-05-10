@@ -9,15 +9,21 @@ import android.widget.AdapterView;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
+import com.example.iningke.myapplication.ad.AdvertisementActivity;
 import com.example.iningke.myapplication.adapter.HxyActivityAdapter;
+import com.example.iningke.myapplication.annotion.TextAnnotationActivity;
 import com.example.iningke.myapplication.bean.HxyActivityBean;
 import com.example.iningke.myapplication.contact.ContactsFromPhoneActivity;
 import com.example.iningke.myapplication.contact.GoToSystemContactActivity;
+import com.example.iningke.myapplication.db.FileUtilsActivity;
 import com.example.iningke.myapplication.exlistview.MyExpandableListViewActivity;
 import com.example.iningke.myapplication.gif.GifActivity;
 import com.example.iningke.myapplication.iflytek.IFlyTekSpeechActivity;
 import com.example.iningke.myapplication.mvp.activity.LoginActivity;
+import com.example.iningke.myapplication.ndk.NDKHelloWorldActivity;
 import com.example.iningke.myapplication.permission.TextPermission2Activity;
+import com.example.iningke.myapplication.sensor.SensorActivity;
+import com.example.iningke.myapplication.zoomlistview.MyZoomListViewActivity;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -54,6 +60,12 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("TextToSpeechActivity", "android自带的语音朗读功能，仅支持英文,德语,意大利语,法语,西班牙语"));
         dataSource.add(new HxyActivityBean("LoginActivity", "MVP模式的一个简答的例子"));
         dataSource.add(new HxyActivityBean("TextPermission2Activity", "android6.0动态权限"));
+        dataSource.add(new HxyActivityBean("FileUtilsActivity", "关于文件"));
+        dataSource.add(new HxyActivityBean("NDKHelloWorldActivity", "初识NDK"));
+        dataSource.add(new HxyActivityBean("TextAnnotationActivity", "初识注解"));
+        dataSource.add(new HxyActivityBean("AdvertisementActivity", "广告页"));
+        dataSource.add(new HxyActivityBean("SensorActivity", "三轴传感器"));
+        dataSource.add(new HxyActivityBean("MyZoomListViewActivity", "头部缩放ListView"));
 
         adapter.notifyDataSetChanged();
     }
@@ -87,6 +99,24 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
                 break;
             case 8:
                 startActivity(new Intent(this, TextPermission2Activity.class));
+                break;
+            case 9:
+                startActivity(new Intent(this, FileUtilsActivity.class));
+                break;
+            case 10:
+                startActivity(new Intent(this, NDKHelloWorldActivity.class));
+                break;
+            case 11:
+                startActivity(new Intent(this, TextAnnotationActivity.class));
+                break;
+            case 12:
+                startActivity(new Intent(this, AdvertisementActivity.class));
+                break;
+            case 13:
+                startActivity(new Intent(this, SensorActivity.class));
+                break;
+            case 14:
+                startActivity(new Intent(this, MyZoomListViewActivity.class));
                 break;
         }
     }

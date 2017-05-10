@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">自定义日期时间控件</string>
+    <string name="startDateTime">开始日期时间</string>
+    <string name="endDateTime">结束日期时间</string>
+
+
+</resources>

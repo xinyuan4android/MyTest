@@ -7,18 +7,18 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
-* debug.keystore
+* proguard-project.txt
 
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => winxin_sdk_sample\src\main\AndroidManifest.xml
-* assets\ => winxin_sdk_sample\src\main\assets
-* libs\libammsdk.jar => winxin_sdk_sample\libs\libammsdk.jar
-* res\ => winxin_sdk_sample\src\main\res\
-* src\ => winxin_sdk_sample\src\main\java\
+* AndroidManifest.xml => dateTimePicker\src\main\AndroidManifest.xml
+* assets\ => dateTimePicker\src\main\assets
+* lint.xml => dateTimePicker\lint.xml
+* res\ => dateTimePicker\src\main\res\
+* src\ => dateTimePicker\src\main\java\
 
 Next Steps:
 -----------

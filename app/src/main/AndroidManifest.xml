@@ -32,22 +32,18 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity android:name=".MainActivity" />
         <activity android:name=".ButterKnifeActivity" />
-        <activity android:name=".RecyclerViewActivity"></activity>
+        <activity android:name=".RecyclerViewActivity" />
         <activity android:name=".TestActivity" />
         <activity android:name=".MPAndroidChartActivity" />
         <activity android:name=".permission.TextPermissionActivity" />
         <activity android:name=".permission.TextPermission2Activity" />
         <activity android:name=".mvp.activity.LoginActivity" />
         <activity android:name=".exlistview.MyExpandableListViewActivity" />
-        <activity android:name=".MarqueeActivity">
-
-        </activity>
+        <activity android:name=".MarqueeActivity" />
         <activity android:name=".TextToSpeechActivity" />
         <activity android:name=".contact.ContactsFromPhoneActivity" />
         <activity android:name=".contact.GoToSystemContactActivity" />
-        <activity android:name=".iflytek.IFlyTekSpeechActivity">
-
-        </activity>
+        <activity android:name=".iflytek.IFlyTekSpeechActivity" />
         <activity android:name=".gif.GifActivity" />
         <activity android:name=".RListViewActivity" />
         <activity android:name=".HxyActivity">
@@ -57,6 +53,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".db.FileUtilsActivity" />
+        <activity android:name=".ndk.NDKHelloWorldActivity" />
+        <activity android:name=".annotion.TextAnnotationActivity" />
+        <activity android:name=".ad.AdvertisementActivity" />
+        <activity android:name=".sensor.SensorActivity" />
+        <activity android:name=".zoomlistview.MyZoomListViewActivity"></activity>
     </application>
 
 </manifest>
