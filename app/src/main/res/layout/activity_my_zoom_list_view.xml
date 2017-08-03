@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".zoomlistview.MyZoomListViewActivity">
+
     <com.example.iningke.myapplication.zoomlistview.MyZoomListView
         android:id="@+id/myZoomListView"
         android:layout_width="match_parent"

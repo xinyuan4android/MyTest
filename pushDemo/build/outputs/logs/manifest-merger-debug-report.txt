@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:2:1-142:12
+	package
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+		INJECTED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:18:5-82
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:18:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:19:22-85
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:24:22-73
+uses-permission#baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.push.example
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:28:2-104
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:28:19-101
+permission#baidu.push.permission.WRITE_PUSHINFOPROVIDER.com.baidu.push.example
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:29:5-32:18
+	android:protectionLevel
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:31:9-41
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:30:9-91
+application
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:34:5-140:19
+	android:label
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:36:9-41
+	android:icon
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:35:9-45
+activity#com.baidu.push.example.PushDemoActivity
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:37:9-47:20
+	android:screenOrientation
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:38:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:45:27-74
+activity#com.baidu.push.example.LoginActivity
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:48:9-52:20
+	android:label
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:51:13-42
+	android:configChanges
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:50:13-63
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:49:13-64
+activity#com.baidu.push.example.CustomActivity
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:53:9-57:20
+	android:launchMode
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:56:13-44
+	android:configChanges
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:55:13-63
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:54:13-65
+activity#com.baidu.android.pushservice.richmedia.MediaViewActivity
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:60:9-64:20
+	android:label
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:63:13-46
+	android:configChanges
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:62:13-63
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:61:13-85
+activity#com.baidu.android.pushservice.richmedia.MediaListActivity
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:65:9-70:20
+	android:label
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:68:13-46
+	android:launchMode
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:69:13-44
+	android:configChanges
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:67:13-63
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:66:13-85
+receiver#com.baidu.push.example.MyPushMessageReceiver
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:74:9-83:20
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:74:19-78
+intent-filter#com.baidu.android.pushservice.action.MESSAGE+com.baidu.android.pushservice.action.RECEIVE+com.baidu.android.pushservice.action.notification.CLICK
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:75:13-82:29
+action#com.baidu.android.pushservice.action.MESSAGE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:78:17-87
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:78:25-84
+action#com.baidu.android.pushservice.action.RECEIVE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:80:17-87
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:80:25-84
+action#com.baidu.android.pushservice.action.notification.CLICK
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:81:17-98
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:81:25-95
+receiver#com.baidu.android.pushservice.PushServiceReceiver
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:86:9-100:20
+	android:process
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:88:13-44
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:87:13-77
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.baidu.android.pushservice.action.media.CLICK+com.baidu.android.pushservice.action.notification.SHOW
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:89:13-99:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:90:17-79
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:90:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:91:17-79
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:91:25-76
+action#com.baidu.android.pushservice.action.notification.SHOW
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:92:17-97
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:92:25-94
+action#com.baidu.android.pushservice.action.media.CLICK
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:93:17-91
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:93:25-88
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:95:17-78
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:95:25-75
+action#android.intent.action.USER_PRESENT
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:96:17-77
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:96:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:97:17-87
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:97:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:98:17-90
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:98:25-87
+receiver#com.baidu.android.pushservice.RegistrationReceiver
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:101:9-113:20
+	android:process
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:102:13-78
+intent-filter#com.baidu.android.pushservice.action.BIND_SYNC+com.baidu.android.pushservice.action.METHOD
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:104:13-107:29
+action#com.baidu.android.pushservice.action.METHOD
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:105:17-86
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:105:25-83
+action#com.baidu.android.pushservice.action.BIND_SYNC
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:106:17-89
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:106:25-86
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:108:13-112:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:109:17-80
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:109:25-77
+data
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:111:17-50
+	android:scheme
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:111:23-47
+service#com.baidu.android.pushservice.PushService
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:116:9-123:19
+	android:process
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:119:13-44
+	android:exported
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:118:13-36
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:117:13-69
+intent-filter#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:120:13-122:29
+action#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:121:17-92
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:121:25-89
+service#com.baidu.android.pushservice.CommandService
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:124:9-126:39
+	android:exported
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:126:13-36
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:125:13-72
+provider#com.baidu.android.pushservice.PushInfoProvider
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:129:3-134:30
+	android:authorities
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:131:4-55
+	android:protectionLevel
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:133:4-41
+	android:exported
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:134:4-27
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:130:4-65
+	android:writePermission
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:132:4-97
+meta-data#api_key
+ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:137:9-139:56
+	android:value
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:139:13-53
+	android:name
+		ADDED from F:\work\MyApplication\pushDemo\src\main\AndroidManifest.xml:138:13-35

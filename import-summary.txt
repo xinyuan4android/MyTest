@@ -7,6 +7,7 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
+* build.xml
 * proguard-project.txt
 
 Moved Files:
@@ -14,11 +15,18 @@ Moved Files:
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => dateTimePicker\src\main\AndroidManifest.xml
-* assets\ => dateTimePicker\src\main\assets
-* lint.xml => dateTimePicker\lint.xml
-* res\ => dateTimePicker\src\main\res\
-* src\ => dateTimePicker\src\main\java\
+* AndroidManifest.xml => pushDemo\src\main\AndroidManifest.xml
+* assets\ => pushDemo\src\main\assets
+* libs\arm64-v8a\libbdpush_V2_7.so => pushDemo\src\main\jniLibs\arm64-v8a\libbdpush_V2_7.so
+* libs\armeabi-v7a\libbdpush_V2_7.so => pushDemo\src\main\jniLibs\armeabi-v7a\libbdpush_V2_7.so
+* libs\armeabi\libbdpush_V2_7.so => pushDemo\src\main\jniLibs\armeabi\libbdpush_V2_7.so
+* libs\mips64\libbdpush_V2_7.so => pushDemo\src\main\jniLibs\mips64\libbdpush_V2_7.so
+* libs\mips\libbdpush_V2_7.so => pushDemo\src\main\jniLibs\mips\libbdpush_V2_7.so
+* libs\pushservice-5.2.0.12.jar => pushDemo\libs\pushservice-5.2.0.12.jar
+* libs\x86\libbdpush_V2_7.so => pushDemo\src\main\jniLibs\x86\libbdpush_V2_7.so
+* libs\x86_64\libbdpush_V2_7.so => pushDemo\src\main\jniLibs\x86_64\libbdpush_V2_7.so
+* res\ => pushDemo\src\main\res\
+* src\ => pushDemo\src\main\java\
 
 Next Steps:
 -----------

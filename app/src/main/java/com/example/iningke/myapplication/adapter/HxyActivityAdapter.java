@@ -24,12 +24,19 @@ public class HxyActivityAdapter extends BaseAdapter {
         this.dataSource = dataSource;
     }
 
+    private int count = 0;
+
     @Override
     public int getCount() {
         if (dataSource != null) {
             return dataSource.size();
         }
         return 0;
+//        return count;
+    }
+
+    public void setCount(int count) {
+        this.count = count;
     }
 
     @Override

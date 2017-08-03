@@ -16,6 +16,7 @@ import java.io.File;
 public class FileUtilsActivity extends AppCompatActivity {
 
     private EditText editText;
+    private SqliteUtils sqliteUtils;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +38,21 @@ public class FileUtilsActivity extends AppCompatActivity {
         if (!file.exists()) {
             file.mkdirs();
         }
+        sqliteUtils = new SqliteUtils(this, SqliteUtils.path + "黄新元/tb_message", null, 1);
+
+
+    }
+
+    public void add(View view) {
+        sqliteUtils.addDataToDB(new MessageBean("1", "2", "3", "4", "5", "6"));
+    }
+
+    public void update(View view) {
+        sqliteUtils.upDataFromDB(new MessageBean("1", "1", "1", "1", "2", "1"));
+    }
+
+    public void delete(View view) {
+        sqliteUtils.deleteDbData("1");
     }
 
     public boolean isHaveSdCard() {

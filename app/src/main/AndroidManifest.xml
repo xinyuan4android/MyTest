@@ -15,6 +15,14 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <!-- 屏蔽HOME键需要的权限 -->
+
+
+    <!--蓝牙-->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
 
     <supports-screens
         android:anyDensity="true"
@@ -58,7 +66,11 @@
         <activity android:name=".annotion.TextAnnotationActivity" />
         <activity android:name=".ad.AdvertisementActivity" />
         <activity android:name=".sensor.SensorActivity" />
-        <activity android:name=".zoomlistview.MyZoomListViewActivity"></activity>
+        <activity android:name=".zoomlistview.MyZoomListViewActivity" />
+        <activity
+            android:name=".NotificationActivity"
+            android:launchMode="singleInstance" />
+        <activity android:name=".bluetooth.BlueToothActivity"></activity>
     </application>
 
 </manifest>

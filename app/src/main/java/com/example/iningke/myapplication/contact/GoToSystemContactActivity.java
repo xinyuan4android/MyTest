@@ -1,7 +1,11 @@
 package com.example.iningke.myapplication.contact;
 
+
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
+import android.graphics.Color;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.ContactsContract;
@@ -26,10 +30,36 @@ public class GoToSystemContactActivity extends AppCompatActivity {
     }
 
     public void goToSystemContact(View view) {
-        Intent i = new Intent();
-        i.setAction(Intent.ACTION_PICK);
-        i.setData(ContactsContract.Contacts.CONTENT_URI);
-        startActivityForResult(i, 2222);
+//        Intent i = new Intent();
+//        i.setAction(Intent.ACTION_PICK);
+//        i.setData(ContactsContract.Contacts.CONTENT_URI);
+//        startActivityForResult(i, 2222);
+        abouShowAlterDilaog();
+    }
+
+    private void abouShowAlterDilaog() {
+        AlertDialog dialog = null;
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("改变Button颜色")
+                .setMessage("改变Button颜色")
+                .setPositiveButton("确定", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+
+                    }
+                })
+                .setNegativeButton("取消", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+
+                    }
+                });
+        dialog = builder.create();
+//        dialog.getButton(AlertDialog.BUTTON_POSITIVE).setTextColor(Color.RED);
+//        dialog.getButton(AlertDialog.BUTTON_NEGATIVE).setTextColor(Color.BLUE);
+        dialog.show();
+        dialog.getButton(AlertDialog.BUTTON_POSITIVE).setTextColor(Color.RED);
+        dialog.getButton(AlertDialog.BUTTON_NEGATIVE).setTextColor(Color.BLUE);
     }
 
     @Override

@@ -13,6 +13,7 @@ import com.example.iningke.myapplication.ad.AdvertisementActivity;
 import com.example.iningke.myapplication.adapter.HxyActivityAdapter;
 import com.example.iningke.myapplication.annotion.TextAnnotationActivity;
 import com.example.iningke.myapplication.bean.HxyActivityBean;
+import com.example.iningke.myapplication.bluetooth.BlueToothActivity;
 import com.example.iningke.myapplication.contact.ContactsFromPhoneActivity;
 import com.example.iningke.myapplication.contact.GoToSystemContactActivity;
 import com.example.iningke.myapplication.db.FileUtilsActivity;
@@ -24,6 +25,8 @@ import com.example.iningke.myapplication.ndk.NDKHelloWorldActivity;
 import com.example.iningke.myapplication.permission.TextPermission2Activity;
 import com.example.iningke.myapplication.sensor.SensorActivity;
 import com.example.iningke.myapplication.zoomlistview.MyZoomListViewActivity;
+import com.iningke.baseproject.utils.LogUtils;
+import com.iningke.baseproject.utils.UIUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,6 +49,9 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         ButterKnife.bind(this);
         initView();
         setData();
+        int displayWidth = UIUtils.getDisplayWidth(this);
+        int displayHeight = UIUtils.getDisplayHeight(this);
+        LogUtils.e("displayWidth" + displayWidth + "--displayHeight--" + displayHeight);
 //        setPullLvHeight(listView_footView);
     }
 
@@ -66,6 +72,8 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("AdvertisementActivity", "广告页"));
         dataSource.add(new HxyActivityBean("SensorActivity", "三轴传感器"));
         dataSource.add(new HxyActivityBean("MyZoomListViewActivity", "头部缩放ListView"));
+        dataSource.add(new HxyActivityBean("NotificationActivity", "测试通知"));
+        dataSource.add(new HxyActivityBean("BlueToothActivity", "蓝牙功能"));
 
         adapter.notifyDataSetChanged();
     }
@@ -117,6 +125,12 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
                 break;
             case 14:
                 startActivity(new Intent(this, MyZoomListViewActivity.class));
+                break;
+            case 15:
+                startActivity(new Intent(this, NotificationActivity.class));
+                break;
+            case 16:
+                startActivity(new Intent(this, BlueToothActivity.class));
                 break;
         }
     }
