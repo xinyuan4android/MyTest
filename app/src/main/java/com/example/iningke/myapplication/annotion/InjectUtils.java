@@ -109,7 +109,7 @@ public class InjectUtils {
         //遍历所有的成员变量
         for (Field field : fields) {
             //拿到成员变量 对应的 InjectView注解
-            InjectView annotation = field.getAnnotation(InjectView.class);
+            injectView annotation = field.getAnnotation(injectView.class);
 
             //如果注解不为null，说明，field成员变量使用了InjectView注解
             if (annotation != null) {

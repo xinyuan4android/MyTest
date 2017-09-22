@@ -17,6 +17,9 @@ import android.widget.ImageView;
 
 import com.iningke.baseproject.utils.LogUtils;
 
+import org.greenrobot.eventbus.EventBus;
+
+
 /**
  * 可缩放 可移动 imageview
  * Created by hxy on  2016/12/5.
@@ -60,6 +63,13 @@ public class MyZoomImageView extends ImageView implements View.OnTouchListener,
         mScaleGestureDetector = new ScaleGestureDetector(context, this);
         mGestureDetector = new GestureDetector(context,
                 new GestureDetector.SimpleOnGestureListener() {
+                    @Override
+                    public boolean onSingleTapConfirmed(MotionEvent e) {
+                        //单击手势
+                        EventBus.getDefault().post(new ZoomEvent());
+                        return super.onSingleTapConfirmed(e);
+                    }
+
                     @Override
                     public boolean onDoubleTap(MotionEvent e) {
                         //双击手势
@@ -478,5 +488,9 @@ public class MyZoomImageView extends ImageView implements View.OnTouchListener,
             }
 
         }
+    }
+
+    public class ZoomEvent {
+
     }
 }

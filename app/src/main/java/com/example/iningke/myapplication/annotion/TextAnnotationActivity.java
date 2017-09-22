@@ -10,7 +10,7 @@ import com.example.iningke.myapplication.R;
 
 @InjectContentView(R.layout.activity_text_annotation)
 public class TextAnnotationActivity extends AppCompatActivity {
-    @InjectView(R.id.btn)
+    @injectView(R.id.btn)
     Button btn;
 
     @Override
