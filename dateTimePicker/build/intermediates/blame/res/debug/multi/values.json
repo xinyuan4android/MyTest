@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\ASworkspace\\MyTest\\dateTimePicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "F:\\asWorkSpace\\MyTest\\dateTimePicker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 97
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\dateTimePicker\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\dateTimePicker\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 144
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\dateTimePicker\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\dateTimePicker\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 193
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\dateTimePicker\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\dateTimePicker\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

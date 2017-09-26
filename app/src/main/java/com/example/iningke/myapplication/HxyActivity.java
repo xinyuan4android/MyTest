@@ -22,7 +22,9 @@ import com.example.iningke.myapplication.gif.GifActivity;
 import com.example.iningke.myapplication.iflytek.IFlyTekSpeechActivity;
 import com.example.iningke.myapplication.mvp.activity.LoginActivity;
 import com.example.iningke.myapplication.ndk.NDKHelloWorldActivity;
+import com.example.iningke.myapplication.okhttptest.TestOkHttpActivity;
 import com.example.iningke.myapplication.permission.TextPermission2Activity;
+import com.example.iningke.myapplication.retrofit.TestRetrofitActivity;
 import com.example.iningke.myapplication.sensor.SensorActivity;
 import com.example.iningke.myapplication.zoomlistview.MyZoomListViewActivity;
 import com.iningke.baseproject.utils.LogUtils;
@@ -74,6 +76,8 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("MyZoomListViewActivity", "头部缩放ListView"));
         dataSource.add(new HxyActivityBean("NotificationActivity", "测试通知"));
         dataSource.add(new HxyActivityBean("BlueToothActivity", "蓝牙功能"));
+        dataSource.add(new HxyActivityBean("TestOkHttpActivity", "测试OkHttp"));
+        dataSource.add(new HxyActivityBean("TestRetrofitActivity", "测试Retrofit"));
 
         adapter.notifyDataSetChanged();
     }
@@ -131,6 +135,12 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
                 break;
             case 16:
                 startActivity(new Intent(this, BlueToothActivity.class));
+                break;
+            case 17:
+                startActivity(new Intent(this, TestOkHttpActivity.class));
+                break;
+            case 18:
+                startActivity(new Intent(this, TestRetrofitActivity.class));
                 break;
         }
     }

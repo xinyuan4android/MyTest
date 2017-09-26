@@ -1,4 +1,4 @@
-include ':app', ':baseproject', ':mylibrary', ':Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable', ':Common', ':library:Common', ':library:WheelPicker', ':library:ColorPicker', ':smartisan'
+include ':app', ':baseproject', ':mylibrary', ':Rong_Cloud_Android_IMKit_SDK_v2_6_7_stable', ':Common', ':library:Common', ':library:WheelPicker', ':library:ColorPicker', ':smartisan', ':hxy_baseproject'
 include ':winxin_sdk_sample'
 include ':dateTimePicker'
 include ':pushDemo'

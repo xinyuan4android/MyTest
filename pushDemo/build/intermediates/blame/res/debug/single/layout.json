@@ -1,34 +1,34 @@
 [
     {
-        "merged": "G:\\ASworkspace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_setundistur_time.xml",
-        "source": "G:\\ASworkspace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_setundistur_time.xml"
+        "merged": "F:\\asWorkSpace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_download_progress.xml",
+        "source": "F:\\asWorkSpace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_download_progress.xml"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_download_progress.xml",
-        "source": "G:\\ASworkspace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_download_progress.xml"
+        "merged": "F:\\asWorkSpace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\asWorkSpace\\MyTest\\pushDemo\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_media_list.xml",
-        "source": "G:\\ASworkspace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_media_list.xml"
+        "merged": "F:\\asWorkSpace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_media_list.xml",
+        "source": "F:\\asWorkSpace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_media_list.xml"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "G:\\ASworkspace\\MyTest\\pushDemo\\src\\main\\res\\layout\\main.xml"
+        "merged": "F:\\asWorkSpace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\custom_activity.xml",
+        "source": "F:\\asWorkSpace\\MyTest\\pushDemo\\src\\main\\res\\layout\\custom_activity.xml"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_media_list_item.xml",
-        "source": "G:\\ASworkspace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_media_list_item.xml"
+        "merged": "F:\\asWorkSpace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_custom_builder.xml",
+        "source": "F:\\asWorkSpace\\MyTest\\pushDemo\\src\\main\\res\\layout\\notification_custom_builder.xml"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_custom_builder.xml",
-        "source": "G:\\ASworkspace\\MyTest\\pushDemo\\src\\main\\res\\layout\\notification_custom_builder.xml"
+        "merged": "F:\\asWorkSpace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_media_list_item.xml",
+        "source": "F:\\asWorkSpace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_media_list_item.xml"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_lapp_notification_layout.xml",
-        "source": "G:\\ASworkspace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_lapp_notification_layout.xml"
+        "merged": "F:\\asWorkSpace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_lapp_notification_layout.xml",
+        "source": "F:\\asWorkSpace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_lapp_notification_layout.xml"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\custom_activity.xml",
-        "source": "G:\\ASworkspace\\MyTest\\pushDemo\\src\\main\\res\\layout\\custom_activity.xml"
+        "merged": "F:\\asWorkSpace\\MyTest\\pushDemo\\build\\intermediates\\res\\merged\\debug\\layout\\bpush_setundistur_time.xml",
+        "source": "F:\\asWorkSpace\\MyTest\\pushDemo\\src\\main\\res\\layout\\bpush_setundistur_time.xml"
     }
 ]

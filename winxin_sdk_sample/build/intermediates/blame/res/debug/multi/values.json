@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 198
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 1,
@@ -33,7 +33,7 @@
                     "endOffset": 312
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 1,
@@ -54,7 +54,7 @@
                     "endOffset": 431
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 1,
@@ -75,7 +75,7 @@
                     "endOffset": 555
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 1,
@@ -96,7 +96,7 @@
                     "endOffset": 708
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 1,
@@ -117,7 +117,7 @@
                     "endOffset": 822
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 96,
                         "startColumn": 1,
@@ -138,7 +138,7 @@
                     "endOffset": 936
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 1,
@@ -159,7 +159,7 @@
                     "endOffset": 1023
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 1,
@@ -179,7 +179,7 @@
                     "endOffset": 1063
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -198,7 +198,7 @@
                     "endOffset": 1104
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -217,7 +217,7 @@
                     "endOffset": 1149
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -236,7 +236,7 @@
                     "endOffset": 1188
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -255,7 +255,7 @@
                     "endOffset": 1234
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -274,7 +274,7 @@
                     "endOffset": 1286
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -293,7 +293,7 @@
                     "endOffset": 1330
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -312,7 +312,7 @@
                     "endOffset": 1382
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -331,7 +331,7 @@
                     "endOffset": 1426
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -350,7 +350,7 @@
                     "endOffset": 1474
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -369,7 +369,7 @@
                     "endOffset": 1514
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\color.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -388,7 +388,7 @@
                     "endOffset": 1559
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -407,7 +407,7 @@
                     "endOffset": 1615
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -426,7 +426,7 @@
                     "endOffset": 1663
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -445,7 +445,7 @@
                     "endOffset": 1717
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -464,7 +464,7 @@
                     "endOffset": 1764
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -483,7 +483,7 @@
                     "endOffset": 1809
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -502,7 +502,7 @@
                     "endOffset": 1856
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -521,7 +521,7 @@
                     "endOffset": 1908
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -540,7 +540,7 @@
                     "endOffset": 1953
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -559,7 +559,7 @@
                     "endOffset": 2000
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -578,7 +578,7 @@
                     "endOffset": 2045
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -597,7 +597,7 @@
                     "endOffset": 2085
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -616,7 +616,7 @@
                     "endOffset": 2127
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -635,7 +635,7 @@
                     "endOffset": 2171
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -654,7 +654,7 @@
                     "endOffset": 2213
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -673,7 +673,7 @@
                     "endOffset": 2253
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -692,7 +692,7 @@
                     "endOffset": 2293
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -711,7 +711,7 @@
                     "endOffset": 2335
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -730,7 +730,7 @@
                     "endOffset": 2382
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -749,7 +749,7 @@
                     "endOffset": 2427
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -768,7 +768,7 @@
                     "endOffset": 2465
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -787,7 +787,7 @@
                     "endOffset": 2510
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -806,7 +806,7 @@
                     "endOffset": 2550
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -825,7 +825,7 @@
                     "endOffset": 2590
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -844,7 +844,7 @@
                     "endOffset": 2629
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -863,7 +863,7 @@
                     "endOffset": 2670
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 1,
@@ -882,7 +882,7 @@
                     "endOffset": 2709
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -901,7 +901,7 @@
                     "endOffset": 2773
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -920,7 +920,7 @@
                     "endOffset": 2828
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -939,7 +939,7 @@
                     "endOffset": 2883
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -958,7 +958,7 @@
                     "endOffset": 2937
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -977,7 +977,7 @@
                     "endOffset": 2988
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 148,
                         "startColumn": 1,
@@ -996,7 +996,7 @@
                     "endOffset": 3054
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -1015,7 +1015,7 @@
                     "endOffset": 3106
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -1034,7 +1034,7 @@
                     "endOffset": 3154
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 1,
@@ -1053,7 +1053,7 @@
                     "endOffset": 3201
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 1,
@@ -1072,7 +1072,7 @@
                     "endOffset": 3250
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 1,
@@ -1091,7 +1091,7 @@
                     "endOffset": 3299
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 1,
@@ -1110,7 +1110,7 @@
                     "endOffset": 3344
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -1129,7 +1129,7 @@
                     "endOffset": 3386
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -1148,7 +1148,7 @@
                     "endOffset": 3458
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -1167,7 +1167,7 @@
                     "endOffset": 3498
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -1186,7 +1186,7 @@
                     "endOffset": 3541
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -1205,7 +1205,7 @@
                     "endOffset": 3613
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -1224,7 +1224,7 @@
                     "endOffset": 3677
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -1243,7 +1243,7 @@
                     "endOffset": 3722
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -1262,7 +1262,7 @@
                     "endOffset": 3773
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -1281,7 +1281,7 @@
                     "endOffset": 3850
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -1300,7 +1300,7 @@
                     "endOffset": 3893
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -1319,7 +1319,7 @@
                     "endOffset": 3933
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -1338,7 +1338,7 @@
                     "endOffset": 3978
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -1357,7 +1357,7 @@
                     "endOffset": 4027
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -1376,7 +1376,7 @@
                     "endOffset": 4117
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 1,
@@ -1395,7 +1395,7 @@
                     "endOffset": 4184
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 1,
@@ -1414,7 +1414,7 @@
                     "endOffset": 4236
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 1,
@@ -1433,7 +1433,7 @@
                     "endOffset": 4318
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 158,
                         "startColumn": 1,
@@ -1452,7 +1452,7 @@
                     "endOffset": 4377
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 1,
@@ -1471,7 +1471,7 @@
                     "endOffset": 4439
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 140,
                         "startColumn": 4,
@@ -1490,7 +1490,7 @@
                     "endOffset": 4508
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 152,
                         "startColumn": 1,
@@ -1509,7 +1509,7 @@
                     "endOffset": 4566
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 1,
@@ -1528,7 +1528,7 @@
                     "endOffset": 4611
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -1547,7 +1547,7 @@
                     "endOffset": 4656
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -1566,7 +1566,7 @@
                     "endOffset": 4703
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -1585,7 +1585,7 @@
                     "endOffset": 4769
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -1604,7 +1604,7 @@
                     "endOffset": 4819
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 1,
@@ -1623,7 +1623,7 @@
                     "endOffset": 4883
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 150,
                         "startColumn": 1,
@@ -1642,7 +1642,7 @@
                     "endOffset": 4933
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 149,
                         "startColumn": 1,
@@ -1661,7 +1661,7 @@
                     "endOffset": 4981
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 1,
@@ -1680,7 +1680,7 @@
                     "endOffset": 5027
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 151,
                         "startColumn": 1,
@@ -1699,7 +1699,7 @@
                     "endOffset": 5076
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 1,
@@ -1718,7 +1718,7 @@
                     "endOffset": 5138
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 1,
@@ -1737,7 +1737,7 @@
                     "endOffset": 5181
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -1756,7 +1756,7 @@
                     "endOffset": 5229
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 146,
                         "startColumn": 1,
@@ -1775,7 +1775,7 @@
                     "endOffset": 5280
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 1,
@@ -1794,7 +1794,7 @@
                     "endOffset": 5331
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 147,
                         "startColumn": 1,
@@ -1813,7 +1813,7 @@
                     "endOffset": 5411
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 1,
@@ -1832,7 +1832,7 @@
                     "endOffset": 5478
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 161,
                         "startColumn": 1,
@@ -1851,7 +1851,7 @@
                     "endOffset": 5517
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 156,
                         "startColumn": 1,
@@ -1870,7 +1870,7 @@
                     "endOffset": 5559
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 1,
@@ -1889,7 +1889,7 @@
                     "endOffset": 5602
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -1908,7 +1908,7 @@
                     "endOffset": 5670
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 139,
                         "startColumn": 4,
@@ -1927,7 +1927,7 @@
                     "endOffset": 5709
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 1,
@@ -1946,7 +1946,7 @@
                     "endOffset": 5758
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 1,
@@ -1965,7 +1965,7 @@
                     "endOffset": 5804
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 1,
@@ -1984,7 +1984,7 @@
                     "endOffset": 5847
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 1,
@@ -2003,7 +2003,7 @@
                     "endOffset": 5906
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
@@ -2022,7 +2022,7 @@
                     "endOffset": 5948
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 1,
@@ -2041,7 +2041,7 @@
                     "endOffset": 6006
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 84,
                         "startColumn": 1,
@@ -2060,7 +2060,7 @@
                     "endOffset": 6050
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 1,
@@ -2079,7 +2079,7 @@
                     "endOffset": 6092
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 93,
                         "startColumn": 1,
@@ -2098,7 +2098,7 @@
                     "endOffset": 6135
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 1,
@@ -2117,7 +2117,7 @@
                     "endOffset": 6198
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 1,
@@ -2136,7 +2136,7 @@
                     "endOffset": 6249
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -2155,7 +2155,7 @@
                     "endOffset": 6293
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 1,
@@ -2174,7 +2174,7 @@
                     "endOffset": 6339
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 1,
@@ -2193,7 +2193,7 @@
                     "endOffset": 6402
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 4,
@@ -2212,7 +2212,7 @@
                     "endOffset": 6460
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 135,
                         "startColumn": 4,
@@ -2231,7 +2231,7 @@
                     "endOffset": 6516
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 134,
                         "startColumn": 4,
@@ -2250,7 +2250,7 @@
                     "endOffset": 6580
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 132,
                         "startColumn": 4,
@@ -2269,7 +2269,7 @@
                     "endOffset": 6637
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 131,
                         "startColumn": 4,
@@ -2288,7 +2288,7 @@
                     "endOffset": 6694
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 133,
                         "startColumn": 4,
@@ -2307,7 +2307,7 @@
                     "endOffset": 6752
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 136,
                         "startColumn": 4,
@@ -2326,7 +2326,7 @@
                     "endOffset": 6822
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 143,
                         "startColumn": 4,
@@ -2345,7 +2345,7 @@
                     "endOffset": 6879
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 1,
@@ -2364,7 +2364,7 @@
                     "endOffset": 6937
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 141,
                         "startColumn": 4,
@@ -2383,7 +2383,7 @@
                     "endOffset": 7003
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -2403,7 +2403,7 @@
                     "endOffset": 7396
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 389,
                         "startColumn": 4,
@@ -2424,7 +2424,7 @@
                     "endOffset": 7596
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 342,
                         "startColumn": 4,
@@ -2445,7 +2445,7 @@
                     "endOffset": 8117
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 361,
                         "startColumn": 4,
@@ -2466,7 +2466,7 @@
                     "endOffset": 8949
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 372,
                         "startColumn": 4,
@@ -2487,7 +2487,7 @@
                     "endOffset": 9890
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 312,
                         "startColumn": 4,
@@ -2508,7 +2508,7 @@
                     "endOffset": 10168
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 411,
                         "startColumn": 4,
@@ -2529,7 +2529,7 @@
                     "endOffset": 10687
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 331,
                         "startColumn": 4,
@@ -2550,7 +2550,7 @@
                     "endOffset": 10915
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 398,
                         "startColumn": 4,
@@ -2571,7 +2571,7 @@
                     "endOffset": 11580
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 347,
                         "startColumn": 4,
@@ -2592,7 +2592,7 @@
                     "endOffset": 11861
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 404,
                         "startColumn": 4,
@@ -2613,7 +2613,7 @@
                     "endOffset": 12265
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -2634,7 +2634,7 @@
                     "endOffset": 12431
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 426,
                         "startColumn": 4,
@@ -2655,7 +2655,7 @@
                     "endOffset": 12802
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 418,
                         "startColumn": 4,
@@ -2676,7 +2676,7 @@
                     "endOffset": 13023
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -2697,7 +2697,7 @@
                     "endOffset": 13561
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -2718,7 +2718,7 @@
                     "endOffset": 14113
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
@@ -2739,7 +2739,7 @@
                     "endOffset": 14548
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 4,
@@ -2760,7 +2760,7 @@
                     "endOffset": 14664
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 4,
@@ -2781,7 +2781,7 @@
                     "endOffset": 14876
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -2802,7 +2802,7 @@
                     "endOffset": 15405
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -2823,7 +2823,7 @@
                     "endOffset": 15731
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 290,
                         "startColumn": 4,
@@ -2844,7 +2844,7 @@
                     "endOffset": 16152
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,
@@ -2865,7 +2865,7 @@
                     "endOffset": 16305
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 259,
                         "startColumn": 4,
@@ -2886,7 +2886,7 @@
                     "endOffset": 16933
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 272,
                         "startColumn": 4,
@@ -2907,7 +2907,7 @@
                     "endOffset": 17166
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 285,
                         "startColumn": 4,
@@ -2928,7 +2928,7 @@
                     "endOffset": 17382
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 254,
                         "startColumn": 4,
@@ -2949,7 +2949,7 @@
                     "endOffset": 17858
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 244,
                         "startColumn": 4,
@@ -2970,7 +2970,7 @@
                     "endOffset": 18544
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
@@ -2991,7 +2991,7 @@
                     "endOffset": 18812
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -3012,7 +3012,7 @@
                     "endOffset": 19092
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -3033,7 +3033,7 @@
                     "endOffset": 19213
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 163,
                         "startColumn": 4,
@@ -3054,7 +3054,7 @@
                     "endOffset": 19471
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -3075,7 +3075,7 @@
                     "endOffset": 19753
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
@@ -3096,7 +3096,7 @@
                     "endOffset": 20184
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 142,
                         "startColumn": 4,
@@ -3117,7 +3117,7 @@
                     "endOffset": 20453
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 127,
                         "startColumn": 4,
@@ -3138,7 +3138,7 @@
                     "endOffset": 20640
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 4,
@@ -3159,7 +3159,7 @@
                     "endOffset": 20775
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 4,
@@ -3180,7 +3180,7 @@
                     "endOffset": 20990
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
@@ -3201,7 +3201,7 @@
                     "endOffset": 21647
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -3222,7 +3222,7 @@
                     "endOffset": 22186
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -3243,7 +3243,7 @@
                     "endOffset": 22577
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -3264,7 +3264,7 @@
                     "endOffset": 22819
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -3285,7 +3285,7 @@
                     "endOffset": 23050
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 4,
@@ -3306,7 +3306,7 @@
                     "endOffset": 23160
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -3327,7 +3327,7 @@
                     "endOffset": 23287
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -3348,7 +3348,7 @@
                     "endOffset": 23431
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -3369,7 +3369,7 @@
                     "endOffset": 23553
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -3390,7 +3390,7 @@
                     "endOffset": 23767
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -3411,7 +3411,7 @@
                     "endOffset": 23935
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -3432,7 +3432,7 @@
                     "endOffset": 24162
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -3453,7 +3453,7 @@
                     "endOffset": 24394
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -3474,7 +3474,7 @@
                     "endOffset": 24621
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -3495,7 +3495,7 @@
                     "endOffset": 24815
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3516,7 +3516,7 @@
                     "endOffset": 25104
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 297,
                         "startColumn": 4,
@@ -3537,7 +3537,7 @@
                     "endOffset": 25395
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 304,
                         "startColumn": 4,
@@ -3558,7 +3558,7 @@
                     "endOffset": 25723
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -3579,7 +3579,7 @@
                     "endOffset": 25974
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -3600,7 +3600,7 @@
                     "endOffset": 27240
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -3621,7 +3621,7 @@
                     "endOffset": 27838
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 4,
@@ -3642,7 +3642,7 @@
                     "endOffset": 28220
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 4,
@@ -3663,7 +3663,7 @@
                     "endOffset": 28405
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -3684,7 +3684,7 @@
                     "endOffset": 28762
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
@@ -3705,7 +3705,7 @@
                     "endOffset": 29184
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -3726,7 +3726,7 @@
                     "endOffset": 29560
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -3747,7 +3747,7 @@
                     "endOffset": 29959
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 133,
                         "startColumn": 4,
@@ -3768,7 +3768,7 @@
                     "endOffset": 30378
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -3789,7 +3789,7 @@
                     "endOffset": 30666
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 430,
                         "startColumn": 4,
@@ -3810,7 +3810,7 @@
                     "endOffset": 31097
                 },
                 "from": {
-                    "file": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
+                    "file": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\values\\themes.xml",
                     "position": {
                         "startLine": 109,
                         "startColumn": 4,

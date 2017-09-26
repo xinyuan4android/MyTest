@@ -73,7 +73,7 @@ public class MyZoomImageView extends ImageView implements View.OnTouchListener,
                     @Override
                     public boolean onDoubleTap(MotionEvent e) {
                         //双击手势
-                        if (isAutoScale == true)
+                        if (isAutoScale)
                             return true;
 
                         float x = e.getX();

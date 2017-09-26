@@ -71,7 +71,9 @@
             android:name=".NotificationActivity"
             android:launchMode="singleInstance" />
         <activity android:name=".bluetooth.BlueToothActivity" />
-        <activity android:name=".MyZoomImageViewActivity"></activity>
+        <activity android:name=".MyZoomImageViewActivity" />
+        <activity android:name=".okhttptest.TestOkHttpActivity" />
+        <activity android:name=".retrofit.TestRetrofitActivity"></activity>
     </application>
 
 </manifest>

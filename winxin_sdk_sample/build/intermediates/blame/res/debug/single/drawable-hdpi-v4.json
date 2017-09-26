@@ -1,50 +1,50 @@
 [
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_long_click.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\ic_dialog_long_click.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disable.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_on_disable.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_normal.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_on_normal.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_img.jpg",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_img.jpg"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disable.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_off_disable.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_music_thumb.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_music_thumb.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_img.jpg",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_img.jpg"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_trans.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_trans.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_music_thumb.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_music_thumb.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_normal.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_on_normal.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_music_thumb_backup.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_music_thumb_backup.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_pressed.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_normal.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_off_normal.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_normal.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_off_normal.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_trans.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_trans.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_long_click.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\ic_dialog_long_click.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_alert.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\ic_dialog_alert.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_pressed.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_dialog_alert.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\ic_dialog_alert.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_on_disable.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_on_disable.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_check_off_disable.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\btn_check_off_disable.png"
     },
     {
-        "merged": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_submenu_normal.png",
-        "source": "G:\\ASworkspace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_music_thumb_backup.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\send_music_thumb_backup.png"
     }
 ]

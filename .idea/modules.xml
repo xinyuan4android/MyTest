@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/baseproject/baseproject.iml" filepath="$PROJECT_DIR$/baseproject/baseproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/dateTimePicker/dateTimePicker.iml" filepath="$PROJECT_DIR$/dateTimePicker/dateTimePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hxy_baseproject/hxy_baseproject.iml" filepath="$PROJECT_DIR$/hxy_baseproject/hxy_baseproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/Common/library-Common.iml" filepath="$PROJECT_DIR$/library/Common/library-Common.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
