@@ -63,9 +63,9 @@ public class TestOkHttpActivity extends AppCompatActivity {
 //                .setType(MediaType.parse("application/json"))
 //                .build();
         Request request = new Request.Builder()
-                .url("http://116.62.185.223/yishang/f/user/get")
-//                .url("http://116.62.185.223/yishang/f/user/update")
-                .post(requestBody)
+//                .url("http://116.62.185.223/yishang/f/user/get")
+                .url("http://116.62.185.223/yishang/f/user/update")
+                .post(requestBody2)
                 .build();
 
         Call call = client.newCall(request);

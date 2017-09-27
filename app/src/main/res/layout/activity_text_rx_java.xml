@@ -5,29 +5,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.iningke.myapplication.retrofit.TestRetrofitActivity">
+    tools:context="com.example.iningke.myapplication.rxjava.TestRxJavaActivity">
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="aboutRetrofit"
-        android:text="获取信息" />
+        android:onClick="onClick"
+        android:text="订阅" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="aboutRetrofit1"
-        android:text="修改图片1" />
+        android:onClick="onClick2"
+        android:text="订阅优化" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="aboutRetrofit2"
-        android:text="修改图片2" />
+        android:onClick="onClick3"
+        android:text="rxJava+retrofit" />
 
-    <Button
+    <ImageView
+        android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:onClick="aboutRetrofit3"
-        android:text="修改图片3" />
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
 </LinearLayout>
