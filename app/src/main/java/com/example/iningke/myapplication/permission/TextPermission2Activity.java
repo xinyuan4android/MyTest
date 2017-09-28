@@ -41,7 +41,7 @@ public class TextPermission2Activity extends CheckPermissionActivity {
         Intent intent = new Intent(Intent.ACTION_CALL);
         Uri parse = Uri.parse("tel:" + "18363852860");
         intent.setData(parse);
-        //TODO 拨打电话
+        // 拨打电话
         startActivity(intent);
     }
 }

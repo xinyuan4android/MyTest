@@ -1,8 +1,8 @@
-package com.example.hxy_baseproject.http.request;
+package com.example.hxy_baseproject.request;
 
+import com.example.hxy_baseproject.callback.MyCallBack;
+import com.example.hxy_baseproject.callback.MyCallBackImpl;
 import com.example.hxy_baseproject.http.OkHttpUtils;
-import com.example.hxy_baseproject.http.callback.MyCallBack;
-import com.example.hxy_baseproject.http.callback.MyCallBackImpl;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
@@ -13,9 +13,10 @@ import okhttp3.Request;
 import okhttp3.Response;
 
 /**
- * Created by zhy on 15/12/15.
- * 对OkHttpRequest的封装，对外提供更多的接口：cancel(),readTimeOut()...
+ * 描述：
+ * 作者：hxy on  2017/9/28 15:26.
  */
+
 public class RequestCall {
     private OkHttpRequest okHttpRequest;
     private Request request;
@@ -103,6 +104,5 @@ public class RequestCall {
             call.cancel();
         }
     }
-
 
 }

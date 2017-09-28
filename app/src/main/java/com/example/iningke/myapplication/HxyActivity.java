@@ -27,6 +27,7 @@ import com.example.iningke.myapplication.permission.TextPermission2Activity;
 import com.example.iningke.myapplication.retrofit.TestRetrofitActivity;
 import com.example.iningke.myapplication.rxjava.TestRxJavaActivity;
 import com.example.iningke.myapplication.sensor.SensorActivity;
+import com.example.iningke.myapplication.testMVP.ui.TestMVPActivity;
 import com.example.iningke.myapplication.zoomlistview.MyZoomListViewActivity;
 import com.iningke.baseproject.utils.LogUtils;
 import com.iningke.baseproject.utils.UIUtils;
@@ -80,6 +81,7 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("TestOkHttpActivity", "测试OkHttp"));
         dataSource.add(new HxyActivityBean("TestRetrofitActivity", "测试Retrofit"));
         dataSource.add(new HxyActivityBean("TestRxJavaActivity", "测试RxJava"));
+        dataSource.add(new HxyActivityBean("TestMVPActivity", "测试MVP"));
 
         adapter.notifyDataSetChanged();
     }
@@ -146,6 +148,9 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
                 break;
             case 19:
                 startActivity(new Intent(this, TestRxJavaActivity.class));
+                break;
+            case 20:
+                startActivity(new Intent(this, TestMVPActivity.class));
                 break;
         }
     }

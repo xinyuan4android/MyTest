@@ -14,7 +14,6 @@ import java.lang.reflect.Method;
 public class ClsUtils {
 
     public ClsUtils() {
-        // TODO Auto-generated constructor stub
     }
 
     /**
@@ -58,7 +57,6 @@ public class ClsUtils {
             // throw new RuntimeException(e.getMessage());
             e.printStackTrace();
         } catch (Exception e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
         return false;
@@ -111,7 +109,6 @@ public class ClsUtils {
             // throw new RuntimeException(e.getMessage());
             e.printStackTrace();
         } catch (Exception e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }
@@ -142,7 +139,6 @@ public class ClsUtils {
 
 
             } catch (Exception e) {
-                // TODO Auto-generated catch block
 
                 Log.d("mylog", "setPiN failed!");
                 e.printStackTrace();
@@ -161,7 +157,6 @@ public class ClsUtils {
 
 
             } catch (Exception e) {
-                // TODO Auto-generated catch block
                 Log.d("mylog", "setPiN failed!");
                 e.printStackTrace();
             }

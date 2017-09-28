@@ -2,10 +2,10 @@ package com.example.hxy_baseproject.http;
 
 import android.support.annotation.NonNull;
 
-import com.example.hxy_baseproject.http.callback.MyCallBack;
-import com.example.hxy_baseproject.http.callback.MyCallBackImpl;
-import com.example.hxy_baseproject.http.request.RequestCall;
-import com.example.hxy_baseproject.http.utils.Platform;
+import com.example.hxy_baseproject.callback.MyCallBack;
+import com.example.hxy_baseproject.callback.MyCallBackImpl;
+import com.example.hxy_baseproject.request.RequestCall;
+import com.example.hxy_baseproject.utils.Platform;
 
 import java.io.IOException;
 

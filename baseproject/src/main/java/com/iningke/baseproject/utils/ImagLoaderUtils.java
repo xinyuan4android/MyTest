@@ -39,7 +39,7 @@ public class ImagLoaderUtils {
                     // 线程的优先级
                     .memoryCache(memoryCache)
                     // 设置缓存的大小
-                    // 文件高速缓存到本地，参数1：磁盘地址。 参数2：加密算法。 参数3：高速缓存的最大大小 TODO
+                    // 文件高速缓存到本地，参数1：磁盘地址。 参数2：加密算法。 参数3：高速缓存的最大大小
                     .diskCache(new LruDiskCache(cacheDir, new Md5FileNameGenerator(), 10 * 1024 * 1024)).denyCacheImageMultipleSizesInMemory().threadPoolSize(5)// 线程池线程个数，避免线程过多找出oom
                     .tasksProcessingOrder(QueueProcessingType.LIFO)// 任务的处理顺序
                     // 后进先出法
@@ -49,7 +49,7 @@ public class ImagLoaderUtils {
         catch (Exception e) {
             config = new ImageLoaderConfiguration.Builder(context).defaultDisplayImageOptions(defaultOptions).threadPriority(Thread.NORM_PRIORITY - 2)// 线程的优先级
                     .memoryCache(memoryCache)// 设置缓存的大小
-                    .diskCacheFileNameGenerator(new Md5FileNameGenerator())// TODO
+                    .diskCacheFileNameGenerator(new Md5FileNameGenerator())//
                     // 不同的地方
                     .denyCacheImageMultipleSizesInMemory().threadPoolSize(4)// 线程池线程个数，避免线程过多找出oom
                     .tasksProcessingOrder(QueueProcessingType.LIFO)// 任务的处理顺序

@@ -1,9 +1,10 @@
-package com.example.hxy_baseproject.http.callback;
+package com.example.hxy_baseproject.callback;
 
 import okhttp3.Response;
 
 /**
- * Created by hxy on  2017/9/25.
+ * 描述：
+ * 作者：hxy on  2017/9/28 15:23.
  */
 
 public interface MyCallBack<T> {
@@ -44,6 +45,4 @@ public interface MyCallBack<T> {
      * @param response
      */
     T parseNetworkResponse(Response response, int id) throws Exception;
-
-
 }

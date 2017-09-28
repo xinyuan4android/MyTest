@@ -12,7 +12,6 @@ public abstract class CheckPermissionActivity extends AppCompatActivity {
 
     protected void checkPermission(String perission, int request_code) {
         if (ActivityCompat.checkSelfPermission(this, perission) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
             //    ActivityCompat#requestPermissions
             // here to request the missing permissions, and then overriding
             //   public void onRequestPermissionsResult(int requestCode, String[] permissions,

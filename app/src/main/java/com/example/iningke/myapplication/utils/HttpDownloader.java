@@ -30,7 +30,6 @@ public class HttpDownloader {
                     return -1;
                 }
             } catch (IOException e) {
-                // TODO Auto-generated catch block
                 e.printStackTrace();
             }
 
@@ -50,7 +49,6 @@ public class HttpDownloader {
                 return urlConn.getInputStream();
             }
         } catch (MalformedURLException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
         return is;

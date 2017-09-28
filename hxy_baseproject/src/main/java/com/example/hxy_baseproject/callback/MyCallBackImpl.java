@@ -1,9 +1,10 @@
-package com.example.hxy_baseproject.http.callback;
+package com.example.hxy_baseproject.callback;
 
 import okhttp3.Response;
 
 /**
- * Created by hxy on  2017/9/25.
+ * 描述：
+ * 作者：hxy on  2017/9/28 15:24.
  */
 
 public abstract class MyCallBackImpl<T> implements MyCallBack<T> {

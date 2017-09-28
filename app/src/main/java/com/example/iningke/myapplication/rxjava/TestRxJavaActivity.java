@@ -45,7 +45,6 @@ public class TestRxJavaActivity extends AppCompatActivity {
 //                .baseUrl("http://app.jiakaojingling.com/jkjl/api/")
                 .build();
         rxApi = retrofit.create(RxApi.class);
-
     }
 
     public void onClick3(View view) {
@@ -57,7 +56,8 @@ public class TestRxJavaActivity extends AppCompatActivity {
 
             @Override
             public void onError(Throwable e) {
-                LogUtils.e("onError" + e.getMessage());
+
+                LogUtils.e("e.getMessage---" + e.getMessage());
             }
 
             @Override
@@ -69,6 +69,7 @@ public class TestRxJavaActivity extends AppCompatActivity {
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(userSubscriber);
+
     }
 
     public void onClick(View view) {

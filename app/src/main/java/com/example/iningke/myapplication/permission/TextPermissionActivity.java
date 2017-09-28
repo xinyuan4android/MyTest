@@ -48,7 +48,6 @@ public class TextPermissionActivity extends AppCompatActivity {
      */
     public void checkPermission() {
         if (ActivityCompat.checkSelfPermission(this, Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
             //    ActivityCompat#requestPermissions
             // here to request the missing permissions, and then overriding
             //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
@@ -68,7 +67,6 @@ public class TextPermissionActivity extends AppCompatActivity {
         Intent intent = new Intent(Intent.ACTION_CALL);
         Uri parse = Uri.parse("tel:" + phoneNumber);
         intent.setData(parse);
-        //TODO 拨打电话
         startActivity(intent);
     }
 

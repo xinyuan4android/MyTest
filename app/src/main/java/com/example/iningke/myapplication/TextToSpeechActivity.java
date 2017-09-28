@@ -58,7 +58,7 @@ public class TextToSpeechActivity extends AppCompatActivity implements TextToSpe
             // Locale loc1=new Locale("us");
             // Locale loc2=new Locale("china");
 
-            //TODO Android 系统自带的TTS (Text To Speak)语音库目前只有English ,German , Italian ,French ,Spanish(英文,德语,意大利语,法语,西班牙语)五个音库
+            // Android 系统自带的TTS (Text To Speak)语音库目前只有English ,German , Italian ,French ,Spanish(英文,德语,意大利语,法语,西班牙语)五个音库
             int result1 = tts.setLanguage(Locale.US);
             int result2 = tts.setLanguage(Locale.CHINA);
             if (result1 == TextToSpeech.LANG_MISSING_DATA

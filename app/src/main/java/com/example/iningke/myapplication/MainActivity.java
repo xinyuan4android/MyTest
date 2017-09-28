@@ -187,7 +187,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     play();
                     handler.sendEmptyMessageDelayed(1, 500);
                 } catch (Exception e) {
-                    // TODO: handle exception
                 }
 //                }
             }

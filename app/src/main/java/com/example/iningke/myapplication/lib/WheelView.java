@@ -83,7 +83,7 @@ public class WheelView extends View {
 
     // 显示几个条目
     int itemsVisible = 5;
-//TODO    int itemsVisible = 11;
+//   int itemsVisible = 11;
 
     int measuredHeight;
     int measuredWidth;
@@ -105,7 +105,7 @@ public class WheelView extends View {
     private int drawCenterContentStart = 0;//中间选中文字开始绘制位置
     private int drawOutContentStart = 0;//非中间文字开始绘制位置
     private static final float SCALECONTENT = 1.0F;//非中间文字则用此控制高度，压扁形成3d错觉
-    // TODO   private static final float SCALECONTENT = 0.8F;//非中间文字则用此控制高度，压扁形成3d错觉
+    //   private static final float SCALECONTENT = 0.8F;//非中间文字则用此控制高度，压扁形成3d错觉
     private static final float CENTERCONTENTOFFSET = 6;//中间文字文字居中需要此偏移值
 
     public WheelView(Context context) {

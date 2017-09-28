@@ -74,7 +74,8 @@
         <activity android:name=".MyZoomImageViewActivity" />
         <activity android:name=".okhttptest.TestOkHttpActivity" />
         <activity android:name=".retrofit.TestRetrofitActivity" />
-        <activity android:name=".rxjava.TestRxJavaActivity"></activity>
+        <activity android:name=".rxjava.TestRxJavaActivity" />
+        <activity android:name=".testMVP.ui.TestMVPActivity"></activity>
     </application>
 
 </manifest>

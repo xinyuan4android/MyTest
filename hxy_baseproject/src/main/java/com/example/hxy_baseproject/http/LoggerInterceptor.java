@@ -17,42 +17,37 @@ import okhttp3.ResponseBody;
 import okio.Buffer;
 
 /**
- * Created by zhy on 16/3/1.
+ * 描述：
+ * 作者：hxy on  2017/9/28 15:28.
  */
-public class LoggerInterceptor implements Interceptor
-{
+
+public class LoggerInterceptor implements Interceptor {
     public static final String TAG = "OkHttpUtils";
     private String tag;
     private boolean showResponse;
 
-    public LoggerInterceptor(String tag, boolean showResponse)
-    {
-        if (TextUtils.isEmpty(tag))
-        {
+    public LoggerInterceptor(String tag, boolean showResponse) {
+        if (TextUtils.isEmpty(tag)) {
             tag = TAG;
         }
         this.showResponse = showResponse;
         this.tag = tag;
     }
 
-    public LoggerInterceptor(String tag)
-    {
+    public LoggerInterceptor(String tag) {
         this(tag, false);
     }
 
     @Override
-    public Response intercept(Chain chain) throws IOException
-    {
+    public Response intercept(Interceptor.Chain chain) throws IOException {
         Request request = chain.request();
         logForRequest(request);
         Response response = chain.proceed(request);
         return logForResponse(response);
     }
 
-    private Response logForResponse(Response response)
-    {
-        try
-        {
+    private Response logForResponse(Response response) {
+        try {
             //===>response log
             KLog.e(tag, "========response'log=======");
             Response.Builder builder = response.newBuilder();
@@ -63,24 +58,19 @@ public class LoggerInterceptor implements Interceptor
             if (!TextUtils.isEmpty(clone.message()))
                 KLog.e(tag, "message : " + clone.message());
 
-            if (showResponse)
-            {
+            if (showResponse) {
                 ResponseBody body = clone.body();
-                if (body != null)
-                {
+                if (body != null) {
                     MediaType mediaType = body.contentType();
-                    if (mediaType != null)
-                    {
+                    if (mediaType != null) {
                         KLog.e(tag, "responseBody's contentType : " + mediaType.toString());
-                        if (isText(mediaType))
-                        {
+                        if (isText(mediaType)) {
                             String resp = body.string();
                             KLog.e(tag, "responseBody's content : " + resp);
 
                             body = ResponseBody.create(mediaType, resp);
                             return response.newBuilder().body(body).build();
-                        } else
-                        {
+                        } else {
                             KLog.e(tag, "responseBody's content : " + " maybe [file part] , too large too print , ignored!");
                         }
                     }
@@ -88,59 +78,47 @@ public class LoggerInterceptor implements Interceptor
             }
 
             KLog.e(tag, "========response'KLog=======end");
-        } catch (Exception e)
-        {
+        } catch (Exception e) {
 //            e.printStackTrace();
         }
 
         return response;
     }
 
-    private void logForRequest(Request request)
-    {
-        try
-        {
+    private void logForRequest(Request request) {
+        try {
             String url = request.url().toString();
             Headers headers = request.headers();
 
             KLog.e(tag, "========request'KLog=======");
             KLog.e(tag, "method : " + request.method());
             KLog.e(tag, "url : " + url);
-            if (headers != null && headers.size() > 0)
-            {
+            if (headers != null && headers.size() > 0) {
                 KLog.e(tag, "headers : " + headers.toString());
             }
             RequestBody requestBody = request.body();
-            if (requestBody != null)
-            {
+            if (requestBody != null) {
                 MediaType mediaType = requestBody.contentType();
-                if (mediaType != null)
-                {
+                if (mediaType != null) {
                     KLog.e(tag, "requestBody's contentType : " + mediaType.toString());
-                    if (isText(mediaType))
-                    {
+                    if (isText(mediaType)) {
                         KLog.e(tag, "requestBody's content : " + bodyToString(request));
-                    } else
-                    {
+                    } else {
                         KLog.e(tag, "requestBody's content : " + " maybe [file part] , too large too print , ignored!");
                     }
                 }
             }
             Log.e(tag, "========request'log=======end");
-        } catch (Exception e)
-        {
+        } catch (Exception e) {
 //            e.printStackTrace();
         }
     }
 
-    private boolean isText(MediaType mediaType)
-    {
-        if (mediaType.type() != null && mediaType.type().equals("text"))
-        {
+    private boolean isText(MediaType mediaType) {
+        if (mediaType.type() != null && mediaType.type().equals("text")) {
             return true;
         }
-        if (mediaType.subtype() != null)
-        {
+        if (mediaType.subtype() != null) {
             if (mediaType.subtype().equals("json") ||
                     mediaType.subtype().equals("xml") ||
                     mediaType.subtype().equals("html") ||
@@ -151,16 +129,13 @@ public class LoggerInterceptor implements Interceptor
         return false;
     }
 
-    private String bodyToString(final Request request)
-    {
-        try
-        {
+    private String bodyToString(final Request request) {
+        try {
             final Request copy = request.newBuilder().build();
             final Buffer buffer = new Buffer();
             copy.body().writeTo(buffer);
             return buffer.readUtf8();
-        } catch (final IOException e)
-        {
+        } catch (final IOException e) {
             return "something error when show requestBody.";
         }
     }
