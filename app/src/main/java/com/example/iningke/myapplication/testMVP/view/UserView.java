@@ -8,7 +8,7 @@ import com.example.iningke.myapplication.okhttptest.UserInfoModel;
  * 作者：hxy on  2017/9/28 11:41.
  */
 
-public interface UserView extends IBaseView<UserInfoModel> {
+public interface UserView extends IBaseView {
 
     void showUserInfo(UserInfoModel userInfo);
 

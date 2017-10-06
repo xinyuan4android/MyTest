@@ -75,7 +75,12 @@
         <activity android:name=".okhttptest.TestOkHttpActivity" />
         <activity android:name=".retrofit.TestRetrofitActivity" />
         <activity android:name=".rxjava.TestRxJavaActivity" />
-        <activity android:name=".testMVP.ui.TestMVPActivity"></activity>
+        <activity android:name=".testMVP.ui.TestMVPActivity" />
+        <activity android:name=".testActivityStackStatusBar.Test1Activity" />
+        <activity android:name=".testActivityStackStatusBar.Test2Activity" />
+        <activity android:name=".testActivityStackStatusBar.Test3Activity" />
+        <activity android:name=".testActivityStackStatusBar.BaseActivity" />
+        <activity android:name=".animation.TestAnimationActivity"></activity>
     </application>
 
 </manifest>

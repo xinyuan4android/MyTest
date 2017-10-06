@@ -8,4 +8,5 @@ package com.example.hxy_baseproject.base;
 public interface IBasePresenter {
 
     void unSubscribe();
+
 }

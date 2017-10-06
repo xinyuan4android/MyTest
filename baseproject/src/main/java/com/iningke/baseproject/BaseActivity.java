@@ -101,6 +101,6 @@ public abstract class BaseActivity extends FragmentActivity{
     protected void onDestroy() {
         super.onDestroy();
         dismissDialog();
-        ButterKnife.unbind(this);
+//        ButterKnife.unbind(this);
     }
 }

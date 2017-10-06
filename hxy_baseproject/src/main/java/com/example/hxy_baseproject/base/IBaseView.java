@@ -5,7 +5,7 @@ package com.example.hxy_baseproject.base;
  * 作者：hxy on  2017/9/28 10:34.
  */
 
-public interface IBaseView<T> {
+public interface IBaseView {
 
     /**
      * 网络请求请求前加载progress

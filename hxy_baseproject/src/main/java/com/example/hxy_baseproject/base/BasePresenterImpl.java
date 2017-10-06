@@ -24,8 +24,9 @@ public abstract class BasePresenterImpl<V extends IBaseView, T> implements IBase
         if (mSubscription != null && !mSubscription.isUnsubscribed()) {
             mSubscription.unsubscribe();
         }
-        view = null;
+//        view = null;
     }
+
 
     @Override
     public void beforeRequest() {

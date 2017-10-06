@@ -11,6 +11,7 @@ import android.widget.ListView;
 
 import com.example.iningke.myapplication.ad.AdvertisementActivity;
 import com.example.iningke.myapplication.adapter.HxyActivityAdapter;
+import com.example.iningke.myapplication.animation.TestAnimationActivity;
 import com.example.iningke.myapplication.annotion.TextAnnotationActivity;
 import com.example.iningke.myapplication.bean.HxyActivityBean;
 import com.example.iningke.myapplication.bluetooth.BlueToothActivity;
@@ -27,6 +28,7 @@ import com.example.iningke.myapplication.permission.TextPermission2Activity;
 import com.example.iningke.myapplication.retrofit.TestRetrofitActivity;
 import com.example.iningke.myapplication.rxjava.TestRxJavaActivity;
 import com.example.iningke.myapplication.sensor.SensorActivity;
+import com.example.iningke.myapplication.testActivityStackStatusBar.Test1Activity;
 import com.example.iningke.myapplication.testMVP.ui.TestMVPActivity;
 import com.example.iningke.myapplication.zoomlistview.MyZoomListViewActivity;
 import com.iningke.baseproject.utils.LogUtils;
@@ -82,6 +84,8 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("TestRetrofitActivity", "测试Retrofit"));
         dataSource.add(new HxyActivityBean("TestRxJavaActivity", "测试RxJava"));
         dataSource.add(new HxyActivityBean("TestMVPActivity", "测试MVP"));
+        dataSource.add(new HxyActivityBean("Test1Activity", "测试ActivityStack"));
+        dataSource.add(new HxyActivityBean("TestAnimationActivity", "测试布局动画"));
 
         adapter.notifyDataSetChanged();
     }
@@ -152,6 +156,12 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
             case 20:
                 startActivity(new Intent(this, TestMVPActivity.class));
                 break;
+            case 21:
+                startActivity(new Intent(this, Test1Activity.class));
+                break;
+            case 22:
+                startActivity(new Intent(this, TestAnimationActivity.class));
+                break;
         }
     }
 
@@ -186,7 +196,6 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        ButterKnife.unbind(this);
     }
 
 

@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.neenbedankt.android-apt'
 
 android {
     compileSdkVersion 23
@@ -22,6 +23,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.jakewharton:butterknife:7.0.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
     compile 'org.xutils:xutils:3.3.34'
     compile 'com.android.support:support-v4:23.4.0'
     compile 'com.alibaba:fastjson:1.2.7'
