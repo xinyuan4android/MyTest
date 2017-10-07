@@ -5,19 +5,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.iningke.myapplication.animation.TestAnimationActivity">
+    tools:context="com.example.iningke.myapplication.animation.TestPropertyAnimationActivity">
 
     <RelativeLayout
+        android:id="@+id/relativeLayout"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1"
-        android:layoutAnimation="@anim/anim_layout">
+        android:layout_weight="1">
 
         <Button
             android:id="@+id/btn1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:onClick="testPropertyAnimator"
+            android:onClick="showProgressBar"
             android:text="button1" />
 
         <Button
@@ -50,6 +50,7 @@
             android:text="button5" />
 
         <Button
+            android:id="@+id/btn6"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_below="@id/btn3"
@@ -63,12 +64,12 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <ProgressBar
-            android:id="@+id/reg_req_code_gif_view"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:indeterminateBehavior="repeat"
-            android:indeterminateDrawable="@anim/base_loading_large_anim" />
+        <!--<ProgressBar-->
+        <!--android:id="@+id/reg_req_code_gif_view"-->
+        <!--android:layout_width="40dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:indeterminateBehavior="repeat"-->
+        <!--android:indeterminateDrawable="@anim/base_loading_large_anim" />-->
 
         <ImageView
             android:id="@+id/imageView"
