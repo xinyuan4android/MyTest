@@ -1,10 +1,11 @@
-package com.example.iningke.myapplication;
+package com.example.iningke.myapplication.dragItem;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.helper.ItemTouchHelper;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
@@ -15,6 +16,9 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.iningke.myapplication.DividerItemDecoration;
+import com.example.iningke.myapplication.R;
+import com.example.iningke.myapplication.RListViewActivity;
 import com.iningke.baseproject.utils.LogUtils;
 
 import java.util.ArrayList;
@@ -31,7 +35,7 @@ public class RecyclerViewActivity extends AppCompatActivity {
         setContentView(R.layout.activity_recycler_view);
         initData();
         mRecyclerView = (RecyclerView) findViewById(R.id.id_recyclerview);
-        mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
+        mRecyclerView.setLayoutManager(new GridLayoutManager(this, 3));
         mRecyclerView.setAdapter(mAdapter = new HomeAdapter());
         mRecyclerView.addItemDecoration(new DividerItemDecoration(this,
                 DividerItemDecoration.VERTICAL_LIST));
@@ -42,15 +46,19 @@ public class RecyclerViewActivity extends AppCompatActivity {
                 Toast.makeText(RecyclerViewActivity.this, "position == " + postion, Toast.LENGTH_SHORT).show();
             }
         });
-        mAdapter.setLongListener(new MyItemLongClickListener() {
-            @Override
-            public void onItemLongClick(View view, int position) {
-                LogUtils.e("deleteposition-- " + position);
-                mDatas.remove(position);
-                mAdapter.notifyItemRemoved(position);
-//                mAdapter.notifyItemRangeRemoved(position, 0);
-            }
-        });
+
+        ItemTouchHelperCallBack callBack = new ItemTouchHelperCallBack(mAdapter, mDatas);
+        ItemTouchHelper itemTouchHelper = new ItemTouchHelper(callBack);
+        itemTouchHelper.attachToRecyclerView(mRecyclerView);
+//        mAdapter.setLongListener(new MyItemLongClickListener() {
+//            @Override
+//            public void onItemLongClick(View view, int position) {
+//                LogUtils.e("deleteposition-- " + position);
+//                mDatas.remove(position);
+//                mAdapter.notifyItemRemoved(position);
+////                mAdapter.notifyItemRangeRemoved(position, 0);
+//            }
+//        });
     }
 
     protected void initData() {
@@ -95,18 +103,18 @@ public class RecyclerViewActivity extends AppCompatActivity {
             LogUtils.e("onBindView Holder------------>" + position);
             holder.tv.setText(mDatas.get(position));
             LogUtils.e("===============================holder.delete.setonClickListener===============================");
-            holder.delete.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-                    LogUtils.e("holder.  delete  position --" + position);
-                    if (position >= mDatas.size()) {
-                        return;
-                    }
-                    mDatas.remove(position);
-                    notifyItemRemoved(position);
-                    notifyItemRangeChanged(position, mDatas.size()- position);
-                }
-            });
+//            holder.delete.setOnClickListener(new View.OnClickListener() {
+//                @Override
+//                public void onClick(View v) {
+//                    LogUtils.e("holder.  delete  position --" + position);
+//                    if (position >= mDatas.size()) {
+//                        return;
+//                    }
+//                    mDatas.remove(position);
+//                    notifyItemRemoved(position);
+//                    notifyItemRangeChanged(position, mDatas.size() - position);
+//                }
+//            });
         }
 
         @Override

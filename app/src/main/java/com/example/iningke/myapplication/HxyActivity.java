@@ -18,6 +18,7 @@ import com.example.iningke.myapplication.bluetooth.BlueToothActivity;
 import com.example.iningke.myapplication.contact.ContactsFromPhoneActivity;
 import com.example.iningke.myapplication.contact.GoToSystemContactActivity;
 import com.example.iningke.myapplication.db.FileUtilsActivity;
+import com.example.iningke.myapplication.dragItem.RecyclerViewActivity;
 import com.example.iningke.myapplication.exlistview.MyExpandableListViewActivity;
 import com.example.iningke.myapplication.gif.GifActivity;
 import com.example.iningke.myapplication.iflytek.IFlyTekSpeechActivity;
@@ -86,6 +87,7 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("TestMVPActivity", "测试MVP"));
         dataSource.add(new HxyActivityBean("Test1Activity", "测试ActivityStack"));
         dataSource.add(new HxyActivityBean("TestAnimationActivity", "测试布局动画"));
+        dataSource.add(new HxyActivityBean("RecyclerViewActivity", "测试RecyclerView"));
 
         adapter.notifyDataSetChanged();
     }
@@ -161,6 +163,9 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
                 break;
             case 22:
                 startActivity(new Intent(this, TestAnimationActivity.class));
+                break;
+            case 23:
+                startActivity(new Intent(this, RecyclerViewActivity.class));
                 break;
         }
     }

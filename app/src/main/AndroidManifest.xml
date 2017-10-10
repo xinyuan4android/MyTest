@@ -40,7 +40,7 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity android:name=".MainActivity" />
         <activity android:name=".ButterKnifeActivity" />
-        <activity android:name=".RecyclerViewActivity" />
+        <activity android:name=".dragItem.RecyclerViewActivity" />
         <activity android:name=".TestActivity" />
         <activity android:name=".MPAndroidChartActivity" />
         <activity android:name=".permission.TextPermissionActivity" />
