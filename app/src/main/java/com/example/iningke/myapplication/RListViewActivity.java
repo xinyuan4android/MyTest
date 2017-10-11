@@ -72,14 +72,14 @@ public class RListViewActivity extends AppCompatActivity {
                 view = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_home, null);
                 holder = new ViewHolder(view);
                 view.setTag(holder);
-                holder.idNum.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        LogUtils.e("holder  . Num  delete position =" + position);
-                        dataSource.remove(position);
-                        notifyDataSetChanged();
-                    }
-                });
+//                holder.idNum.setOnClickListener(new View.OnClickListener() {
+//                    @Override
+//                    public void onClick(View v) {
+//                        LogUtils.e("holder  . Num  delete position =" + position);
+//                        dataSource.remove(position);
+//                        notifyDataSetChanged();
+//                    }
+//                });
             } else {
                 view = convertView;
                 holder = (ViewHolder) view.getTag();

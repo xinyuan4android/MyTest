@@ -7,10 +7,9 @@ import rx.Subscription;
  * 作者：hxy on  2017/9/28 11:12.
  *
  * @param <V> 视图接口对象(view) 具体业务各自继承自IBaseView
- * @param <T> 业务请求返回的类
  */
 
-public abstract class BasePresenterImpl<V extends IBaseView, T> implements IBasePresenter, IBaseRequestCallBack<T> {
+public abstract class BasePresenterImpl<V extends IBaseView> implements IBasePresenter, IBaseRequestCallBack {
     protected V view;
     protected Subscription mSubscription;
 

@@ -1,11 +1,13 @@
 package com.example.hxy_baseproject.base;
 
+import com.google.gson.JsonObject;
+
 /**
  * 描述：
  * 作者：hxy on  2017/9/28 10:44.
  */
 
-public interface IBaseRequestCallBack<T> {
+public interface IBaseRequestCallBack {
     /**
      * 请求之前调用,可以做一些加载动画之类的操作
      */
@@ -28,5 +30,5 @@ public interface IBaseRequestCallBack<T> {
      *
      * @param data 数据
      */
-    void requestSuccess(T data);
+    void requestSuccess(JsonObject data);
 }

@@ -11,4 +11,8 @@ public interface UserPresenter extends IBasePresenter {
 
     //获取用户信息
     void getUserInfo(String userId);
+
+
+    //获取商户信息
+    void getBusinessInfo(String businessId);
 }

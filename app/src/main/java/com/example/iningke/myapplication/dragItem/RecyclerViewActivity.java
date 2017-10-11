@@ -3,7 +3,7 @@ package com.example.iningke.myapplication.dragItem;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.GridLayoutManager;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
 import android.text.Editable;
@@ -35,7 +35,8 @@ public class RecyclerViewActivity extends AppCompatActivity {
         setContentView(R.layout.activity_recycler_view);
         initData();
         mRecyclerView = (RecyclerView) findViewById(R.id.id_recyclerview);
-        mRecyclerView.setLayoutManager(new GridLayoutManager(this, 3));
+//        mRecyclerView.setLayoutManager(new GridLayoutManager(this, 3));
+        mRecyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false));
         mRecyclerView.setAdapter(mAdapter = new HomeAdapter());
         mRecyclerView.addItemDecoration(new DividerItemDecoration(this,
                 DividerItemDecoration.VERTICAL_LIST));
@@ -46,10 +47,12 @@ public class RecyclerViewActivity extends AppCompatActivity {
                 Toast.makeText(RecyclerViewActivity.this, "position == " + postion, Toast.LENGTH_SHORT).show();
             }
         });
-
-        ItemTouchHelperCallBack callBack = new ItemTouchHelperCallBack(mAdapter, mDatas);
-        ItemTouchHelper itemTouchHelper = new ItemTouchHelper(callBack);
-        itemTouchHelper.attachToRecyclerView(mRecyclerView);
+        ItemRemoveTouchHelperCallBack callBack = new ItemRemoveTouchHelperCallBack(mAdapter, mDatas);
+        ItemTouchHelper helper = new ItemTouchHelper(callBack);
+        helper.attachToRecyclerView(mRecyclerView);
+//        ItemTouchHelperCallBack callBack = new ItemTouchHelperCallBack(mAdapter, mDatas);
+//        ItemTouchHelper itemTouchHelper = new ItemTouchHelper(callBack);
+//        itemTouchHelper.attachToRecyclerView(mRecyclerView);
 //        mAdapter.setLongListener(new MyItemLongClickListener() {
 //            @Override
 //            public void onItemLongClick(View view, int position) {

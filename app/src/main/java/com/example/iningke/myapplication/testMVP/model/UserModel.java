@@ -10,7 +10,9 @@ import rx.Subscription;
  * 作者：hxy on  2017/9/28 13:34.
  */
 
-public interface UserModel<T> {
+public interface UserModel {
 
-    Subscription getUserInfo(String userId, IBaseRequestCallBack<T> callBack);
+    Subscription getUserInfo(String userId, IBaseRequestCallBack callBack);
+
+    Subscription getBusinessInfo(String businessId, IBaseRequestCallBack callBack);
 }

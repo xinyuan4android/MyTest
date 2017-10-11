@@ -11,11 +11,11 @@ import java.util.List;
  * 作者：hxy on  2017/10/10 16:51.
  */
 
-public class ItemTouchHelperCallBack extends ItemTouchHelper.Callback {
+public class ItemRemoveTouchHelperCallBack extends ItemTouchHelper.Callback {
     private RecyclerView.Adapter adapter;
     private List list;
 
-    public ItemTouchHelperCallBack(RecyclerView.Adapter adapter, List list) {
+    public ItemRemoveTouchHelperCallBack(RecyclerView.Adapter adapter, List list) {
         this.adapter = adapter;
         this.list = list;
 
@@ -37,9 +37,9 @@ public class ItemTouchHelperCallBack extends ItemTouchHelper.Callback {
     public int getMovementFlags(RecyclerView recyclerView, RecyclerView.ViewHolder viewHolder) {
         //也就是说返回值是组合式的
         //makeMovementFlags (int dragFlags, int swipeFlags)，看下面的解释说明
-        int swipFlag = 0;
+        int swipFlag = ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT;
         //如果也监控左右方向的话，swipFlag=ItemTouchHelper.LEFT|ItemTouchHelper.RIGHT;
-        int dragflag = ItemTouchHelper.UP | ItemTouchHelper.DOWN | ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT;
+        int dragflag = ItemTouchHelper.UP | ItemTouchHelper.DOWN;
         //等价于：0001&0010;多点触控标记触屏手指的顺序和个数也是这样标记哦
         return makeMovementFlags(dragflag, swipFlag);
 
@@ -90,6 +90,9 @@ public class ItemTouchHelperCallBack extends ItemTouchHelper.Callback {
     @Override
     public void onSwiped(RecyclerView.ViewHolder viewHolder, int direction) {
         //暂不处理
+        int position = viewHolder.getAdapterPosition();
+        adapter.notifyItemRemoved(position);
+        list.remove(position);
     }
 
 
