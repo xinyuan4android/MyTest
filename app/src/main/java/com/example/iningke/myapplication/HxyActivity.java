@@ -31,6 +31,7 @@ import com.example.iningke.myapplication.rxjava.TestRxJavaActivity;
 import com.example.iningke.myapplication.sensor.SensorActivity;
 import com.example.iningke.myapplication.testActivityStackStatusBar.Test1Activity;
 import com.example.iningke.myapplication.testMVP.ui.TestMVPActivity;
+import com.example.iningke.myapplication.toast.TestToastActivity;
 import com.example.iningke.myapplication.zoomlistview.MyZoomListViewActivity;
 import com.iningke.baseproject.utils.LogUtils;
 import com.iningke.baseproject.utils.UIUtils;
@@ -88,6 +89,7 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("Test1Activity", "测试ActivityStack"));
         dataSource.add(new HxyActivityBean("TestAnimationActivity", "测试布局动画"));
         dataSource.add(new HxyActivityBean("RecyclerViewActivity", "测试RecyclerView"));
+        dataSource.add(new HxyActivityBean("TestToastActivity", "测试Toast"));
 
         adapter.notifyDataSetChanged();
     }
@@ -166,6 +168,11 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
                 break;
             case 23:
                 startActivity(new Intent(this, RecyclerViewActivity.class));
+                break;
+            case 24:
+                startActivity(new Intent(this, TestToastActivity.class));
+                break;
+            default:
                 break;
         }
     }

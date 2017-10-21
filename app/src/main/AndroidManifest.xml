@@ -81,7 +81,8 @@
         <activity android:name=".testActivityStackStatusBar.Test3Activity" />
         <activity android:name=".testActivityStackStatusBar.BaseActivity" />
         <activity android:name=".animation.TestAnimationActivity" />
-        <activity android:name=".animation.TestPropertyAnimationActivity"></activity>
+        <activity android:name=".animation.TestPropertyAnimationActivity" />
+        <activity android:name=".toast.TestToastActivity"></activity>
     </application>
 
 </manifest>
