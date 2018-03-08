@@ -82,7 +82,10 @@
         <activity android:name=".testActivityStackStatusBar.BaseActivity" />
         <activity android:name=".animation.TestAnimationActivity" />
         <activity android:name=".animation.TestPropertyAnimationActivity" />
-        <activity android:name=".toast.TestToastActivity"></activity>
+        <activity android:name=".toast.TestToastActivity" />
+        <activity android:name=".TestMeasureActivity" />
+        <activity android:name=".designpattern.StrategyPatternActivity" />
+        <activity android:name=".SwitchButtonActivity"></activity>
     </application>
 
 </manifest>

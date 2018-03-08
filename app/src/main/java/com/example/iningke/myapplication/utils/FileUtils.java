@@ -23,7 +23,7 @@ public class FileUtils {
     public FileUtils() {
         //得到当前外部存储设备的目录
         // /SDCARD
-        SDPATH = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES)+"/shiruijia/";
+        SDPATH = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES) + "/shiruijia/";
     }
 
     /**
@@ -69,7 +69,7 @@ public class FileUtils {
             output = new FileOutputStream(file);
             byte[] buffer = new byte[4 * 1024];
             int len = -1;
-            while ( (len = (input.read(buffer))) != -1) {
+            while ((len = (input.read(buffer))) != -1) {
                 output.write(buffer, 0, len);
             }
             output.flush();

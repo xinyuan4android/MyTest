@@ -110,7 +110,9 @@ public class ToastUtil {
             toast.setDuration(Toast.LENGTH_SHORT);
         }
         return this;
-    }    /**
+    }
+
+    /**
      * 短时间显示Toast
      */
     public ToastUtil Short(CharSequence message) {
@@ -137,6 +139,7 @@ public class ToastUtil {
         }
         return this;
     }
+
     /**
      * 短时间显示Toast
      */

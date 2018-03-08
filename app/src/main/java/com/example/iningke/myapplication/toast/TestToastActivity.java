@@ -46,6 +46,14 @@ public class TestToastActivity extends AppCompatActivity {
         handler.sendEmptyMessageDelayed(100, 1000);
     }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        if (exToast != null) {
+            exToast.hide();
+        }
+    }
+
     private Handler handler = new Handler() {
         @Override
         public void handleMessage(Message msg) {
