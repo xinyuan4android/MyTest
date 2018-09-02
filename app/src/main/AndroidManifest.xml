@@ -34,6 +34,7 @@
     <application
         android:name=".MyApplication"
         android:allowBackup="true"
+        android:hardwareAccelerated="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
@@ -61,9 +62,7 @@
         <activity android:name=".iflytek.IFlyTekSpeechActivity" />
         <activity android:name=".gif.GifActivity" />
         <activity android:name=".RListViewActivity" />
-        <activity android:name=".TestHandlerActivity">
-
-        </activity>
+        <activity android:name=".TestHandlerActivity" />
         <activity android:name=".db.FileUtilsActivity" />
         <activity android:name=".ndk.NDKHelloWorldActivity" />
         <activity android:name=".annotion.TextAnnotationActivity" />
@@ -89,7 +88,9 @@
         <activity android:name=".designpattern.StrategyPatternActivity" />
         <activity android:name=".SwitchButtonActivity" />
         <!-- <layouts.activity android:name=".TestHandlerActivity"></layouts.activity> -->
-        <activity android:name=".encrypt.AESTestActivity"></activity>
+        <activity android:name=".encrypt.AESTestActivity" />
+        <activity android:name=".practice.PaintTestActivity" />
+        <activity android:name=".practice.paint.PaintShaderActivity"></activity>
     </application>
 
 </manifest>

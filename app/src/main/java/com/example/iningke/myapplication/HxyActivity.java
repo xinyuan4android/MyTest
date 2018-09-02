@@ -28,6 +28,7 @@ import com.example.iningke.myapplication.mvp.activity.LoginActivity;
 import com.example.iningke.myapplication.ndk.NDKHelloWorldActivity;
 import com.example.iningke.myapplication.okhttptest.TestOkHttpActivity;
 import com.example.iningke.myapplication.permission.TextPermission2Activity;
+import com.example.iningke.myapplication.practice.PaintTestActivity;
 import com.example.iningke.myapplication.retrofit.TestRetrofitActivity;
 import com.example.iningke.myapplication.rxjava.TestRxJavaActivity;
 import com.example.iningke.myapplication.sensor.SensorActivity;
@@ -96,6 +97,7 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("StrategyPatternActivity", "测试Strategy"));
         dataSource.add(new HxyActivityBean("SwitchButtonActivity", "测试SwitchButton"));
         dataSource.add(new HxyActivityBean("AESTestActivity", "测试AES 加密"));
+        dataSource.add(new HxyActivityBean("PaintTestActivity", "测试AES 加密"));
 
 
         adapter.notifyDataSetChanged();
@@ -189,6 +191,9 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
                 break;
             case 28:
                 startActivity(new Intent(this, AESTestActivity.class));
+                break;
+            case 29:
+                startActivity(new Intent(this, PaintTestActivity.class));
                 break;
             default:
                 break;
