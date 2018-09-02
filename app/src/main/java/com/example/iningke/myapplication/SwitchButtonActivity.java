@@ -1,7 +1,7 @@
 package com.example.iningke.myapplication;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.CompoundButton;
 import android.widget.Switch;
@@ -41,6 +41,7 @@ public class SwitchButtonActivity extends AppCompatActivity {
                 }
             }
         });
+
     }
 
 }

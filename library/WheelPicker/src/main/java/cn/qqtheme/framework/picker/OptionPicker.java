@@ -28,7 +28,7 @@ public class OptionPicker extends WheelPicker {
     /**
      * Instantiates a new Option picker.
      *
-     * @param activity the activity
+     * @param activity the layouts.activity
      * @param options  the options
      */
     public OptionPicker(Activity activity, String[] options) {

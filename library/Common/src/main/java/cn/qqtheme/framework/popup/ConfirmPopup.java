@@ -38,7 +38,7 @@ public abstract class ConfirmPopup<V extends View> extends BottomPopup<View> {
     /**
      * Instantiates a new Confirm popup.
      *
-     * @param activity the activity
+     * @param activity the layouts.activity
      */
     public ConfirmPopup(Activity activity) {
         super(activity);

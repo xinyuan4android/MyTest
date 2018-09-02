@@ -42,8 +42,8 @@ ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:
 		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:15:9-41
 	android:icon
 		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:14:9-45
-activity#net.sourceforge.simcpux.wxapi.WXEntryActivity
-ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:17:9-32:20
+layouts.activity
+ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:17:9-32:28
 	android:label
 		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:19:13-45
 	android:launchMode
@@ -76,54 +76,6 @@ data
 ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:30:17-60
 	android:scheme
 		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:30:23-58
-activity#net.sourceforge.simcpux.wxapi.WXPayEntryActivity
-ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:34:9-37:45
-	android:launchMode
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:37:13-43
-	android:exported
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:36:13-36
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:35:13-53
-activity#net.sourceforge.simcpux.SendToWXActivity
-ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:39:9-42:51
-	android:label
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:41:13-45
-	android:theme
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:42:13-49
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:40:13-45
-activity#net.sourceforge.simcpux.AddFavoriteToWXActivity
-ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:44:9-47:51
-	android:label
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:46:13-45
-	android:theme
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:47:13-49
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:45:13-52
-activity#net.sourceforge.simcpux.GetFromWXActivity
-ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:49:9-52:51
-	android:label
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:51:13-45
-	android:theme
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:52:13-49
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:50:13-46
-activity#net.sourceforge.simcpux.ShowFromWXActivity
-ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:54:9-57:51
-	android:label
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:56:13-45
-	android:theme
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:57:13-49
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:55:13-47
-activity#net.sourceforge.simcpux.PayActivity
-ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:59:9-62:51
-	android:label
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:61:13-45
-	android:theme
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:62:13-49
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:60:13-40
 receiver#net.sourceforge.simcpux.AppRegister
 ADDED from F:\asWorkSpace\MyTest\winxin_sdk_sample\src\main\AndroidManifest.xml:64:9-69:20
 	android:name

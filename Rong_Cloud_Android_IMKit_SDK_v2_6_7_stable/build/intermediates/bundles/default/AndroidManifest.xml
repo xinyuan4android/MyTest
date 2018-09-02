@@ -30,27 +30,27 @@
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
     <application>
-        <activity
-            android:name="io.rong.imkit.activity.PictureSelectorActivity"
+        <layouts.activity
+            android:name=".layouts.activity.PictureSelectorActivity"
             android:screenOrientation="portrait" />
-        <activity
-            android:name="io.rong.imkit.activity.PicturePreviewActivity"
+        <layouts.activity
+            android:name=".layouts.activity.PicturePreviewActivity"
             android:screenOrientation="portrait" />
-        <activity
-            android:name="io.rong.imkit.tools.RongWebviewActivity"
+        <layouts.activity
+            android:name=".tools.RongWebviewActivity"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="io.rong.imkit.intent.action.webview" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name="io.rong.imkit.widget.provider.TakingPicturesActivity"
+        </layouts.activity>
+        <layouts.activity
+            android:name=".widget.provider.TakingPicturesActivity"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait" />
-        <activity
-            android:name="io.rong.imkit.activity.PicturePagerActivity"
+        <layouts.activity
+            android:name=".layouts.activity.PicturePagerActivity"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
 
         <!-- 必选： SDK 核心功能 -->

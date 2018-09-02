@@ -26,30 +26,30 @@
 
     <application>
 
-        <activity
-            android:name=".activity.PictureSelectorActivity"
+        <layouts.activity
+            android:name=".layouts.activity.PictureSelectorActivity"
             android:screenOrientation="portrait" />
 
-        <activity
-            android:name=".activity.PicturePreviewActivity"
+        <layouts.activity
+            android:name=".layouts.activity.PicturePreviewActivity"
             android:screenOrientation="portrait" />
 
-        <activity
+        <layouts.activity
             android:name=".tools.RongWebviewActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="io.rong.imkit.intent.action.webview" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-        </activity>
+        </layouts.activity>
 
-        <activity
+        <layouts.activity
             android:name=".widget.provider.TakingPicturesActivity"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"/>
 
-        <activity
-            android:name=".activity.PicturePagerActivity"
+        <layouts.activity
+            android:name=".layouts.activity.PicturePagerActivity"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
 
 

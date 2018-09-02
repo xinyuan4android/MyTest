@@ -20,6 +20,7 @@ import com.example.iningke.myapplication.contact.GoToSystemContactActivity;
 import com.example.iningke.myapplication.db.FileUtilsActivity;
 import com.example.iningke.myapplication.designpattern.StrategyPatternActivity;
 import com.example.iningke.myapplication.dragItem.RecyclerViewActivity;
+import com.example.iningke.myapplication.encrypt.AESTestActivity;
 import com.example.iningke.myapplication.exlistview.MyExpandableListViewActivity;
 import com.example.iningke.myapplication.gif.GifActivity;
 import com.example.iningke.myapplication.iflytek.IFlyTekSpeechActivity;
@@ -94,6 +95,8 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
         dataSource.add(new HxyActivityBean("TestMeasureActivity", "测试Measure"));
         dataSource.add(new HxyActivityBean("StrategyPatternActivity", "测试Strategy"));
         dataSource.add(new HxyActivityBean("SwitchButtonActivity", "测试SwitchButton"));
+        dataSource.add(new HxyActivityBean("AESTestActivity", "测试AES 加密"));
+
 
         adapter.notifyDataSetChanged();
     }
@@ -183,6 +186,9 @@ public class HxyActivity extends AppCompatActivity implements AdapterView.OnItem
                 startActivity(new Intent(this, StrategyPatternActivity.class));
             case 27:
                 startActivity(new Intent(this, SwitchButtonActivity.class));
+                break;
+            case 28:
+                startActivity(new Intent(this, AESTestActivity.class));
                 break;
             default:
                 break;

@@ -60,7 +60,7 @@ public class Test3Activity extends BaseActivity implements RadioGroup.OnCheckedC
         super.onDestroy();
     }
 
-    //fragment 切换
+    //layouts.fragment 切换
     private void switchFragment1(Fragment targetFragment) {
         FragmentTransaction transaction = getSupportFragmentManager()
                 .beginTransaction();
@@ -82,7 +82,7 @@ public class Test3Activity extends BaseActivity implements RadioGroup.OnCheckedC
         currentFragment = targetFragment;
     }
 
-    //fragment 切换
+    //layouts.fragment 切换
     private void switchFragment(Fragment targetFragment) {
         FragmentTransaction transaction = getSupportFragmentManager()
                 .beginTransaction();

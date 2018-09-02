@@ -1,11 +1,11 @@
 [
     {
-        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_last_pressed.9.png",
-        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
-    },
-    {
         "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_back_pressed.9.png",
         "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_last_pressed.9.png",
+        "source": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
     },
     {
         "merged": "F:\\asWorkSpace\\MyTest\\winxin_sdk_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_listitem_disable.9.png",

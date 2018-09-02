@@ -21,6 +21,19 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    sourceSets {
+        main {
+            res.srcDirs = [
+                    'src/main/res/layouts/activity',
+                    'src/main/res/layouts/fragment',
+                    'src/main/res/layouts',
+                    'src/main/res/layout',
+                    'src/main/res'
+            ]
+        }
+    }
+
     greendao {
         schemaVersion 1
         targetGenDir 'src/main/java'

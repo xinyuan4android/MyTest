@@ -34,7 +34,7 @@
     <application
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
-        <activity
+        <layouts.activity
             android:name="com.baidu.push.example.PushDemoActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask"
@@ -44,30 +44,30 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
+        </layouts.activity>
+        <layouts.activity
             android:name="com.baidu.push.example.LoginActivity"
             android:configChanges="orientation|keyboardHidden"
             android:label="@string/login" >
-        </activity>
-        <activity
+        </layouts.activity>
+        <layouts.activity
             android:name="com.baidu.push.example.CustomActivity"
             android:configChanges="orientation|keyboardHidden"
             android:launchMode="singleTask" >
-        </activity>
+        </layouts.activity>
 
         <!-- push富媒体，使用富媒体推送必须声明 -->
-        <activity
+        <layouts.activity
             android:name="com.baidu.android.pushservice.richmedia.MediaViewActivity"
             android:configChanges="orientation|keyboardHidden"
             android:label="MediaViewActivity" >
-        </activity>
-        <activity
+        </layouts.activity>
+        <layouts.activity
             android:name="com.baidu.android.pushservice.richmedia.MediaListActivity"
             android:configChanges="orientation|keyboardHidden"
             android:label="MediaListActivity"
             android:launchMode="singleTask" >
-        </activity>
+        </layouts.activity>
         <!-- push富媒体结束 -->
 
 

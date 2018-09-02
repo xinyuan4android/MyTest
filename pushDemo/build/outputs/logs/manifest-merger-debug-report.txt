@@ -93,8 +93,8 @@ ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:34:5-140:
 		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:36:9-41
 	android:icon
 		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:35:9-45
-activity#com.baidu.push.example.PushDemoActivity
-ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:37:9-47:20
+layouts.activity
+ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:37:9-47:28
 	android:screenOrientation
 		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:41:13-49
 	android:label
@@ -113,40 +113,6 @@ category#android.intent.category.LAUNCHER
 ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:45:17-77
 	android:name
 		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:45:27-74
-activity#com.baidu.push.example.LoginActivity
-ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:48:9-52:20
-	android:label
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:51:13-42
-	android:configChanges
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:50:13-63
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:49:13-64
-activity#com.baidu.push.example.CustomActivity
-ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:53:9-57:20
-	android:launchMode
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:56:13-44
-	android:configChanges
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:55:13-63
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:54:13-65
-activity#com.baidu.android.pushservice.richmedia.MediaViewActivity
-ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:60:9-64:20
-	android:label
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:63:13-46
-	android:configChanges
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:62:13-63
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:61:13-85
-activity#com.baidu.android.pushservice.richmedia.MediaListActivity
-ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:65:9-70:20
-	android:label
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:68:13-46
-	android:launchMode
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:69:13-44
-	android:configChanges
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:67:13-63
-	android:name
-		ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:66:13-85
 receiver#com.baidu.push.example.MyPushMessageReceiver
 ADDED from F:\asWorkSpace\MyTest\pushDemo\src\main\AndroidManifest.xml:74:9-83:20
 	android:name

@@ -34,10 +34,10 @@ public class GoToSystemContactActivity extends AppCompatActivity {
 //        i.setAction(Intent.ACTION_PICK);
 //        i.setData(ContactsContract.Contacts.CONTENT_URI);
 //        startActivityForResult(i, 2222);
-        abouShowAlterDilaog();
+        aboutShowAlterDilaog();
     }
 
-    private void abouShowAlterDilaog() {
+    private void aboutShowAlterDilaog() {
         AlertDialog dialog = null;
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("改变Button颜色")

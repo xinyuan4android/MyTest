@@ -39,6 +39,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity android:name=".MainActivity" />
+        <activity android:name=".HxyActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".ButterKnifeActivity" />
         <activity android:name=".dragItem.RecyclerViewActivity" />
         <activity android:name=".TestActivity" />
@@ -54,12 +61,8 @@
         <activity android:name=".iflytek.IFlyTekSpeechActivity" />
         <activity android:name=".gif.GifActivity" />
         <activity android:name=".RListViewActivity" />
-        <activity android:name=".HxyActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".TestHandlerActivity">
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity android:name=".db.FileUtilsActivity" />
         <activity android:name=".ndk.NDKHelloWorldActivity" />
@@ -79,13 +82,14 @@
         <activity android:name=".testActivityStackStatusBar.Test1Activity" />
         <activity android:name=".testActivityStackStatusBar.Test2Activity" />
         <activity android:name=".testActivityStackStatusBar.Test3Activity" />
-        <activity android:name=".testActivityStackStatusBar.BaseActivity" />
         <activity android:name=".animation.TestAnimationActivity" />
         <activity android:name=".animation.TestPropertyAnimationActivity" />
         <activity android:name=".toast.TestToastActivity" />
         <activity android:name=".TestMeasureActivity" />
         <activity android:name=".designpattern.StrategyPatternActivity" />
-        <activity android:name=".SwitchButtonActivity"></activity>
+        <activity android:name=".SwitchButtonActivity" />
+        <!-- <layouts.activity android:name=".TestHandlerActivity"></layouts.activity> -->
+        <activity android:name=".encrypt.AESTestActivity"></activity>
     </application>
 
 </manifest>

@@ -94,7 +94,7 @@
 
             <view
                 android:id="@+id/pic_type"
-                class="io.rong.imkit.activity.PictureSelectorActivity$PicTypeBtn"
+                class="io.rong.imkit.layouts.activity.PictureSelectorActivity$PicTypeBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="16dp">
@@ -119,7 +119,7 @@
 
             <view
                 android:id="@+id/preview"
-                class="io.rong.imkit.activity.PictureSelectorActivity$PreviewBtn"
+                class="io.rong.imkit.layouts.activity.PictureSelectorActivity$PreviewBtn"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_alignParentRight="true">

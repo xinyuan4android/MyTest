@@ -19,7 +19,7 @@
 
         <view
             android:id="@+id/checkbox"
-            class="io.rong.imkit.activity.PictureSelectorActivity$SelectBox"
+            class="io.rong.imkit.layouts.activity.PictureSelectorActivity$SelectBox"
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_alignParentRight="true"

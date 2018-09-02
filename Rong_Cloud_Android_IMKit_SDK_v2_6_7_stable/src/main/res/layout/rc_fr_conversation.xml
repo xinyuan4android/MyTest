@@ -4,16 +4,16 @@
     android:layout_height="match_parent"
     android:background="@color/rc_normal_bg">
 
-    <fragment
+    <layouts.fragment
         android:id="@android:id/toggle"
-        android:name="io.rong.imkit.fragment.MessageInputFragment"
+        android:name="io.rong.imkit.layouts.fragment.MessageInputFragment"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true" />
 
-    <fragment
+    <layouts.fragment
         android:id="@android:id/list"
-        android:name="io.rong.imkit.fragment.MessageListFragment"
+        android:name="io.rong.imkit.layouts.fragment.MessageListFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@android:id/toggle" />

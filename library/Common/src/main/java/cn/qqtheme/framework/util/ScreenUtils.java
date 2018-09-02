@@ -83,7 +83,7 @@ public final class ScreenUtils {
     /**
      * Toggle full displayMetrics.
      *
-     * @param activity the activity
+     * @param activity the layouts.activity
      */
     public static void toggleFullScreen(Activity activity) {
         Window window = activity.getWindow();
@@ -100,7 +100,7 @@ public final class ScreenUtils {
     /**
      * 保持屏幕常亮
      *
-     * @param activity the activity
+     * @param activity the layouts.activity
      */
     public static void keepBright(Activity activity) {
         //需在setContentView前调用

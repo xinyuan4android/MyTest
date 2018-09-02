@@ -42,7 +42,7 @@ public class ColorPicker extends ConfirmPopup<LinearLayout> implements TextView.
     /**
      * Instantiates a new Color picker.
      *
-     * @param activity the activity
+     * @param activity the layouts.activity
      */
     public ColorPicker(Activity activity) {
         super(activity);

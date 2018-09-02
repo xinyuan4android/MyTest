@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <fragment
+    <layouts.fragment
         android:id="@+id/rc_pager_fragment"
         android:name="io.rong.imkit.tools.PhotoFragment"
         android:layout_width="match_parent"

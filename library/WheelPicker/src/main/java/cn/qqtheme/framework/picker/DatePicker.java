@@ -57,7 +57,7 @@ public class DatePicker extends WheelPicker {
     /**
      * Instantiates a new Date picker.
      *
-     * @param activity the activity
+     * @param activity the layouts.activity
      */
     public DatePicker(Activity activity) {
         this(activity, YEAR_MONTH_DAY);

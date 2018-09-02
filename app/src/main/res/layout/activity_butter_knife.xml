@@ -6,8 +6,8 @@
     android:orientation="vertical"
     tools:context="com.example.iningke.myapplication.ButterKnifeActivity">
 
-    <!--<fragment-->
-    <!--android:name="io.rong.imkit.fragment.ConversationFragment"-->
+    <!--<layouts.fragment-->
+    <!--android:name="io.rong.imkit.layouts.fragment.ConversationFragment"-->
     <!--android:layout_width="match_parent"-->
     <!--android:layout_height="match_parent" />-->
     <RatingBar

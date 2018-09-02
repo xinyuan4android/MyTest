@@ -35,7 +35,7 @@ public abstract class BottomPopup<V extends View> implements DialogInterface.OnK
     /**
      * Instantiates a new Bottom popup.
      *
-     * @param activity the activity
+     * @param activity the layouts.activity
      */
     public BottomPopup(Activity activity) {
         this.activity = activity;
